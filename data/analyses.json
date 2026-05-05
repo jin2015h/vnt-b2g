@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:58:49.473Z",
+  "updatedAt": "2026-05-05T21:58:58.885Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15124,6 +15124,48 @@
         "files": [],
         "contact": "안치민 042-724-6479",
         "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01496999": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "AX디바이스 개발",
+        "AR/XR 기술력",
+        "첨단 기술 경험"
+      ],
+      "weaknesses": [
+        "반도체 공급 미흡",
+        "핵심 역량 불일치"
+      ],
+      "strategy": "AX디바이스 강점 부각, AR/XR 연계 제안, 반도체 파트너십",
+      "summary": "반도체 공급 역량 부족",
+      "savedAt": 1778018338884,
+      "_bid": {
+        "id": "G2B-R26BK01496999",
+        "bidNo": "R26BK01496999",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "(양계관리로봇) AI반도체 기반 AX디바이스 통합 개발을 위한 AI반도체 공급 및 고도화 용역",
+        "agency": "한국정보통신기술협회",
+        "demandAgency": "",
+        "budget": "363,636,364원",
+        "deadline": "2026-05-15 10:00:00",
+        "openDate": "2026-05-21 14:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "(양계관리로봇) AI반도체 기반 AX디바이스 통합 개발을 위한 AI반도체 공급 및 고도화 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01496999&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김창중 ***********",
+        "qual": "2026-05-12 15:00",
         "source": "g2b"
       }
     }
