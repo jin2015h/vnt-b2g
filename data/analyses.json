@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:59:19.120Z",
+  "updatedAt": "2026-05-05T21:59:30.572Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15246,6 +15246,51 @@
         "description": "피지컬 AI 글로벌 보안규제 지원 시스템 개발",
         "requirements": [],
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01485981&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김진영 070-4056-8281",
+        "qual": "2026-05-13 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01493317": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 기술 적합",
+        "물리적 AI 연관",
+        "원격 협업 솔루션",
+        "디지털 트윈 강점",
+        "상장사 신뢰도"
+      ],
+      "weaknesses": [
+        "AI 전문성 보완",
+        "보안 규제 경험",
+        "경쟁 심화 가능"
+      ],
+      "strategy": "AR/XR-AI 연계 강조",
+      "summary": "VIRNECT AR/XR은 물리적 AI 보안 시스템에 적합.",
+      "savedAt": 1778018370570,
+      "_bid": {
+        "id": "G2B-R26BK01493317",
+        "bidNo": "R26BK01493317",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "피지컬 AI 글로벌 보안규제 지원 시스템 개발",
+        "agency": "조달청 광주지방조달청",
+        "demandAgency": "",
+        "budget": "163,636,364원",
+        "deadline": "2026-05-14 10:00:00",
+        "openDate": "2026-05-14 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "AI",
+        "keywords": [],
+        "description": "피지컬 AI 글로벌 보안규제 지원 시스템 개발",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01493317&bidPbancOrd=000",
         "specUrl": "",
         "draftUrl": "",
         "files": [],
