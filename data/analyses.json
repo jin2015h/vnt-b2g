@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:54:29.559Z",
+  "updatedAt": "2026-05-05T21:54:42.105Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14310,6 +14310,49 @@
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121586",
         "source": "bizinfo"
+      }
+    },
+    "G2B-R26BK01484008": {
+      "probability": 80,
+      "grade": "B",
+      "strengths": [
+        "XR/AR 전문기업",
+        "제품군 프로젝트 적합",
+        "산업용 XR 경험",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "반도체 교육 콘텐츠",
+        "경쟁사 존재 가능성"
+      ],
+      "strategy": "XR기술+콘텐츠 협력 제안",
+      "summary": "XR기술 강점, 협력으로 수주",
+      "savedAt": 1778018082102,
+      "_bid": {
+        "id": "G2B-R26BK01484008",
+        "bidNo": "R26BK01484008",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "반도체 8대 공정 및 장비 XR 교육 플랫폼 제작 용역",
+        "agency": "나노종합기술원",
+        "demandAgency": "",
+        "budget": "422,786,364원",
+        "deadline": "2026-06-04 10:00:00",
+        "openDate": "2026-06-04 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-23",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "반도체 8대 공정 및 장비 XR 교육 플랫폼 제작 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01484008&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이광연 042-366-2021",
+        "qual": "2026-06-03 18:00",
+        "source": "g2b"
       }
     }
   }
