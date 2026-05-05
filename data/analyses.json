@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:58:37.434Z",
+  "updatedAt": "2026-05-05T21:58:49.473Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15082,6 +15082,48 @@
         "files": [],
         "contact": "최준한 054-740-7318",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01480763": {
+      "probability": 30,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 전문성",
+        "혁신 기술 보유",
+        "산업 솔루션"
+      ],
+      "weaknesses": [
+        "사업 연관성 낮음",
+        "범용성 부족"
+      ],
+      "strategy": "AR/XR 접목 제안",
+      "summary": "AR/XR 전문. 연관성 낮음. 차별화 전략 필수.",
+      "savedAt": 1778018329470,
+      "_bid": {
+        "id": "G2B-R26BK01480763",
+        "bidNo": "R26BK01480763",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "통합Ezbaro 성능 향상 및 UI/기능 최적화 사업",
+        "agency": "조달청",
+        "demandAgency": "",
+        "budget": "359,374,545원",
+        "deadline": "2026-05-15 10:00:00",
+        "openDate": "2026-05-15 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "통합Ezbaro 성능 향상 및 UI/기능 최적화 사업",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480763&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "안치민 042-724-6479",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
