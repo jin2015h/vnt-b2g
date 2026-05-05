@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:51:16.448Z",
+  "updatedAt": "2026-05-05T21:51:26.628Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13550,6 +13550,48 @@
         "files": [],
         "contact": "박주영 031-460-5449",
         "qual": "2026-05-06 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01495474": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 제품 보유",
+        "AR/XR 기술 연계",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "기존 플랫폼 지식 부족",
+        "경쟁사 존재 가능성"
+      ],
+      "strategy": "Twin 제품 강점 부각",
+      "summary": "디지털트윈 제품과 AR/XR 기술로 수주 가능성 높음.",
+      "savedAt": 1778017886626,
+      "_bid": {
+        "id": "G2B-R26BK01495474",
+        "bidNo": "R26BK01495474",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "울주군 디지털트윈 행정 플랫폼 서비스 기능 개선 용역",
+        "agency": "한국국토정보공사 부산울산지역본부",
+        "demandAgency": "",
+        "budget": "54,545,455원",
+        "deadline": "2026-05-15 14:00:00",
+        "openDate": "2026-05-15 15:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "울주군 디지털트윈 행정 플랫폼 서비스 기능 개선 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01495474&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "임효선",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
