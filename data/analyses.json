@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:48:46.548Z",
+  "updatedAt": "2026-05-05T21:48:57.079Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12824,6 +12824,51 @@
         "files": [],
         "contact": "안치민 042-724-6479",
         "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01494547": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 전문성",
+        "메타버스 연관성",
+        "솔루션 다양성",
+        "상장사 신뢰도",
+        "공공사업 경험"
+      ],
+      "weaknesses": [
+        "경쟁 심화 우려",
+        "운영 경험 부족",
+        "가격 경쟁력"
+      ],
+      "strategy": "종합 솔루션 제안 및 메타버스 특화 강조",
+      "summary": "메타버스 영상제 최적 솔루션 제공 가능성 높음.",
+      "savedAt": 1778017737078,
+      "_bid": {
+        "id": "G2B-R26BK01494547",
+        "bidNo": "R26BK01494547",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 경북 국제 AI·메타버스 영상제 GAMFF 상영회 운영",
+        "agency": "조달청",
+        "demandAgency": "",
+        "budget": "1,299,753,636원",
+        "deadline": "2026-05-20 10:00:00",
+        "openDate": "2026-05-20 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 경북 국제 AI·메타버스 영상제 GAMFF 상영회 운영",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01494547&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장성주 070-4056-6131",
+        "qual": "2026-05-19 18:00",
         "source": "g2b"
       }
     }
