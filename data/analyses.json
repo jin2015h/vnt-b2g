@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:04:05.867Z",
+  "updatedAt": "2026-05-05T22:04:17.376Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16274,6 +16274,48 @@
         "description": "GvHD 치료 기전 규명을 위한 사람골수 유래 줄기세포 EP3 종 생산 및 Cargo 분석",
         "requirements": [],
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01478726&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "유상민 02-3147-9366",
+        "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01499385": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "코스닥 상장사",
+        "기술력 보유",
+        "원격협업 솔루션"
+      ],
+      "weaknesses": [
+        "생명공학 전문성 부족",
+        "사업 분야 불일치"
+      ],
+      "strategy": "생명공학 파트너십",
+      "summary": "사업 분야 불일치로 수주 어려움.",
+      "savedAt": 1778018657373,
+      "_bid": {
+        "id": "G2B-R26BK01499385",
+        "bidNo": "R26BK01499385",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "GvHD 치료 기전 규명을 위한 사람골수 유래 줄기세포 EP3 종 생산 및 Cargo 분석",
+        "agency": "가톨릭대학교 산학협력단",
+        "demandAgency": "",
+        "budget": "43,636,364원",
+        "deadline": "-",
+        "openDate": "2026-05-08 10:00:00",
+        "openPlace": "가톨릭대학교 옴니버스파크 연구동 7층 7205호 연구관리팀",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "GvHD 치료 기전 규명을 위한 사람골수 유래 줄기세포 EP3 종 생산 및 Cargo 분석",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01499385&bidPbancOrd=000",
         "specUrl": "",
         "draftUrl": "",
         "files": [],
