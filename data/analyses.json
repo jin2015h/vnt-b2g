@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:46:39.725Z",
+  "updatedAt": "2026-05-05T21:46:53.575Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12267,6 +12267,48 @@
         "files": [],
         "contact": "김민성 02-3145-8613",
         "qual": "2026-05-06 17:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01490345": {
+      "probability": 35,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 전문성",
+        "혁신 기술 보유",
+        "원격 협업 가능"
+      ],
+      "weaknesses": [
+        "사업 연관성 낮음",
+        "AR/XR 필요 불명확"
+      ],
+      "strategy": "AR/XR 활용 구체적 제안",
+      "summary": "차량 개조에 AR/XR 접목",
+      "savedAt": 1778017613573,
+      "_bid": {
+        "id": "G2B-R26BK01490345",
+        "bidNo": "R26BK01490345",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "현대자동차그룹 아이케어 카(i CARE CAR) 차량 구매 및 개조",
+        "agency": "사회복지법인 굿네이버스",
+        "demandAgency": "",
+        "budget": "1,036,363,636원",
+        "deadline": "2026-05-08 16:30:00",
+        "openDate": "2026-05-11 10:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "현대자동차그룹 아이케어 카(i CARE CAR) 차량 구매 및 개조",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01490345&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "고아라 02-6424-1314",
+        "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
     }
