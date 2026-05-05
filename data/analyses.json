@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:03:44.467Z",
+  "updatedAt": "2026-05-05T22:03:54.444Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16195,6 +16195,48 @@
         "files": [],
         "contact": "최현규 033-823-3205",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01494540": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력",
+        "원격 감리 가능",
+        "디지털트윈 연계"
+      ],
+      "weaknesses": [
+        "감리 전문성 부족",
+        "건설 경험 부족"
+      ],
+      "strategy": "AR/XR 감리 혁신 제안",
+      "summary": "AR/XR 감리 혁신 기대",
+      "savedAt": 1778018634442,
+      "_bid": {
+        "id": "G2B-R26BK01494540",
+        "bidNo": "R26BK01494540",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "불법드론 탐지장비 부대시설 공사 감리용역",
+        "agency": "한국공항공사",
+        "demandAgency": "",
+        "budget": "280,541,000원",
+        "deadline": "2026-05-28 10:00:00",
+        "openDate": "2026-05-28 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "불법드론 탐지장비 부대시설 공사 감리용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01494540&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이교화",
+        "qual": "2026-05-27 18:00",
         "source": "g2b"
       }
     }
