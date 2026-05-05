@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:55:22.475Z",
+  "updatedAt": "2026-05-05T21:55:35.390Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14479,6 +14479,48 @@
         "files": [],
         "contact": "김경원",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01495116": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 기술",
+        "AR/XR 시각화 강점",
+        "연구기관 협력 경험"
+      ],
+      "weaknesses": [
+        "해상풍력 전문성",
+        "경쟁사 존재 가능"
+      ],
+      "strategy": "Twin으로 구조최적화 및 AR/XR 시각화 제안",
+      "summary": "디지털트윈 강점, 해상풍력 전문성 보완 시 수주 가능",
+      "savedAt": 1778018135388,
+      "_bid": {
+        "id": "G2B-R26BK01495116",
+        "bidNo": "R26BK01495116",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "20MW+급 고정식 하부구조 통합 연동 시뮬레이션 및 기본설계 구조최적화 연구용역",
+        "agency": "한국에너지기술연구원",
+        "demandAgency": "",
+        "budget": "40,135,455원",
+        "deadline": "2026-05-12 10:00:00",
+        "openDate": "2026-05-12 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "20MW+급 고정식 하부구조 통합 연동 시뮬레이션 및 기본설계 구조최적화 연구용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01495116&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "조영문 042-860-3242",
+        "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
     }
