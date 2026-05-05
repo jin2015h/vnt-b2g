@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:48:16.893Z",
+  "updatedAt": "2026-05-05T21:48:23.161Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12652,6 +12652,48 @@
         "files": [],
         "contact": "박주영 031-460-5449",
         "qual": "2026-05-05 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01498013": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "디지털트윈 제품",
+        "AR/XR 기술 전문",
+        "국방 분야 적합"
+      ],
+      "weaknesses": [
+        "특정 연구 방법론",
+        "경쟁사 존재"
+      ],
+      "strategy": "제품 맞춤 제안",
+      "summary": "높은 수주 가능성",
+      "savedAt": 1778017703159,
+      "_bid": {
+        "id": "G2B-R26BK01498013",
+        "bidNo": "R26BK01498013",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "축소 피지컬 트윈 상사성 기반 디지털 트윈을 활용한 신뢰성 시험 설계 개념 연구",
+        "agency": "국방기술품질원",
+        "demandAgency": "",
+        "budget": "42,727,273원",
+        "deadline": "2026-05-12 10:00:00",
+        "openDate": "2026-05-12 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "축소 피지컬 트윈 상사성 기반 디지털 트윈을 활용한 신뢰성 시험 설계 개념 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01498013&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김진욱 055-751-5533",
+        "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
     }
