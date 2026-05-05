@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:04:56.925Z",
+  "updatedAt": "2026-05-05T22:05:14.598Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16468,6 +16468,45 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121592",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121591": {
+      "probability": 70,
+      "grade": "B",
+      "strengths": [
+        "산업용 AR/XR 선두",
+        "원격 협업/검증",
+        "디지털트윈 기술",
+        "스마트고글 보유",
+        "다양한 제품군"
+      ],
+      "weaknesses": [
+        "수소차 직접 경험↓",
+        "직접 수주 아님",
+        "경쟁사 존재 가능"
+      ],
+      "strategy": "AR/XR 활용 제안, 효율성 증대 강조, 원격 지원 솔루션, 기술 검증 기회, 협력사 발굴 모색",
+      "summary": "수소차 검증에 AR/XR 활용, 효율 증대 및 기술 검증 기회 확보.",
+      "savedAt": 1778018714596,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121591",
+        "stage": "지원사업",
+        "title": "[충남] 2026년 수소상용차 부품 성능 검증 기반 구축 사업 장비활용 지원 수혜기업 상시 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "-",
+        "postDate": "2026-05-04",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[충남] 2026년 수소상용차 부품 성능 검증 기반 구축 사업 장비활용 지원 수혜기업 상시 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121591",
         "source": "bizinfo"
       }
     }
