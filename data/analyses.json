@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:59:41.734Z",
+  "updatedAt": "2026-05-05T21:59:55.142Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15340,6 +15340,50 @@
         "files": [],
         "contact": "전상민 02-450-3161",
         "qual": "2026-05-17 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01486639": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력 보유",
+        "원격협업 솔루션",
+        "정부기관 발주"
+      ],
+      "weaknesses": [
+        "사업분야 불일치",
+        "IP 창출 전문성↓",
+        "재활로봇 연관성↓",
+        "예산 규모 작음"
+      ],
+      "strategy": "AR/XR 재활 적용 제안",
+      "summary": "핵심 사업과 무관, 수주↓",
+      "savedAt": 1778018395134,
+      "_bid": {
+        "id": "G2B-R26BK01486639",
+        "bidNo": "R26BK01486639",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[중개] 재활로봇 관련 기술분야별 지식재산권[IP] 창출",
+        "agency": "보건복지부 국립재활원",
+        "demandAgency": "",
+        "budget": "36,363,636원",
+        "deadline": "2026-05-15 12:00:00",
+        "openDate": "2026-05-15 13:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-24",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "[중개] 재활로봇 관련 기술분야별 지식재산권[IP] 창출",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01486639&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김민정 02-901-1516",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
