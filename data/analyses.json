@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:48:26.323Z",
+  "updatedAt": "2026-05-05T21:48:35.353Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12735,6 +12735,49 @@
         "draftUrl": "",
         "files": [],
         "contact": "김미영 070-4056-8564",
+        "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01499699": {
+      "probability": 90,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 전문기업",
+        "제품군 일치",
+        "산업 교육 특화",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "VR 교육 경험?",
+        "경쟁 심화 가능"
+      ],
+      "strategy": "VR 교육 솔루션 강조",
+      "summary": "VIRNECT, VR 교육에 최적화된 AR/XR 전문기업. 수주 유력.",
+      "savedAt": 1778017715352,
+      "_bid": {
+        "id": "G2B-R26BK01499699",
+        "bidNo": "R26BK01499699",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "(재공고)2026년 차세대뿌리산업 전문인력양성사업 VR교육 운영 용역",
+        "agency": "한국공학대학교 산학협력단",
+        "demandAgency": "",
+        "budget": "63,636,364원",
+        "deadline": "2026-05-12 11:00:00",
+        "openDate": "2026-05-13 10:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "(재공고)2026년 차세대뿌리산업 전문인력양성사업 VR교육 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01499699&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이상윤 031-8041-0896",
         "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
