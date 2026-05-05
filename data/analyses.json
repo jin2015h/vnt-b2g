@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:56:34.329Z",
+  "updatedAt": "2026-05-05T21:56:45.712Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14698,6 +14698,49 @@
         "files": [],
         "contact": "김정애 02-958-6304",
         "qual": "2026-05-11 14:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01495397": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 선도기업",
+        "혁신 기술력 보유",
+        "산학협력 경험"
+      ],
+      "weaknesses": [
+        "제품군 불일치",
+        "로봇팔 미취급",
+        "HW 전문성 부족"
+      ],
+      "strategy": "입찰 참여 불가",
+      "summary": "VIRNECT는 로봇팔 사업과 무관하여 수주 가능성 희박.",
+      "savedAt": 1778018205709,
+      "_bid": {
+        "id": "G2B-R26BK01495397",
+        "bidNo": "R26BK01495397",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "고정밀 고하중 협동로봇팔 구매",
+        "agency": "서울대학교 공과대학",
+        "demandAgency": "",
+        "budget": "38,200,000원",
+        "deadline": "2026-05-11 10:00:00",
+        "openDate": "2026-05-11 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "고정밀 고하중 협동로봇팔 구매",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01495397&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "전선희 02-880-4335",
+        "qual": "2026-05-10 18:00",
         "source": "g2b"
       }
     }
