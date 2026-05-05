@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:47:42.192Z",
+  "updatedAt": "2026-05-05T21:47:55.003Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12522,6 +12522,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "차재우 02-2213-0996",
+        "qual": "2026-05-06 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01488697": {
+      "probability": 0,
+      "grade": "D",
+      "strengths": [
+        "관련성 없음",
+        "관련성 없음",
+        "관련성 없음"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "도서 구매 경험 無"
+      ],
+      "strategy": "입찰 포기 권고",
+      "summary": "사업 분야 불일치로 수주 불가",
+      "savedAt": 1778017675001,
+      "_bid": {
+        "id": "G2B-R26BK01488697",
+        "bidNo": "R26BK01488697",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[교비] 2026학년도 안산대학교 국내도서 및 국외도서(MARC DATA포함) 구매 견적 공고",
+        "agency": "안산대학교",
+        "demandAgency": "",
+        "budget": "31,818,182원",
+        "deadline": "2026-05-07 10:00:00",
+        "openDate": "2026-05-07 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-24",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "[교비] 2026학년도 안산대학교 국내도서 및 국외도서(MARC DATA포함) 구매 견적 공고",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01488697&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "강지선 031-400-6914",
         "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
