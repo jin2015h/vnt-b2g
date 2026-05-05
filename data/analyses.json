@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:51:07.401Z",
+  "updatedAt": "2026-05-05T21:51:16.448Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13508,6 +13508,48 @@
         "files": [],
         "contact": "권세운 041-589-8532",
         "qual": "2026-05-05 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01490136": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "핵심 제품 일치",
+        "AR/XR 기술력",
+        "연구과제 적합"
+      ],
+      "weaknesses": [
+        "경쟁사 존재",
+        "철도 특화 경험"
+      ],
+      "strategy": "Twin 제품 강조",
+      "summary": "Twin 제품과 AR/XR 기술이 철도 연구에 적합, 수주 가능성 높음.",
+      "savedAt": 1778017876444,
+      "_bid": {
+        "id": "G2B-R26BK01490136",
+        "bidNo": "R26BK01490136",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "철도차량 디지털 트윈 아키텍쳐 최적화 기술 연구",
+        "agency": "한국철도기술연구원",
+        "demandAgency": "",
+        "budget": "77,272,727원",
+        "deadline": "2026-05-07 11:00:00",
+        "openDate": "2026-05-07 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "철도차량 디지털 트윈 아키텍쳐 최적화 기술 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01490136&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박주영 031-460-5449",
+        "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
     }
