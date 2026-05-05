@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:00:26.911Z",
+  "updatedAt": "2026-05-05T22:00:39.560Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15507,6 +15507,48 @@
         "description": "AI·코딩 드론 미래 인재 양성 프로젝트 운영",
         "requirements": [],
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500766&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장진욱 031-539-5023",
+        "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01500784": {
+      "probability": 55,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 훈련 효율 증대",
+        "스마트고글 활용",
+        "테크노파크 선호"
+      ],
+      "weaknesses": [
+        "직접 훈련 경험 부족",
+        "경쟁사 전문성"
+      ],
+      "strategy": "AR/XR 훈련 솔루션 제안",
+      "summary": "AR/XR 훈련 효율 증대, 직접 훈련 전문성 어필 필요.",
+      "savedAt": 1778018439555,
+      "_bid": {
+        "id": "G2B-R26BK01500784",
+        "bidNo": "R26BK01500784",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "군용 및 소방용 드론 운영 교육",
+        "agency": "재단법인 경기대진테크노파크",
+        "demandAgency": "",
+        "budget": "81,818,182원",
+        "deadline": "2026-05-15 15:00:00",
+        "openDate": "2026-05-15 16:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "군용 및 소방용 드론 운영 교육",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500784&bidPbancOrd=000",
         "specUrl": "",
         "draftUrl": "",
         "files": [],
