@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:03:22.742Z",
+  "updatedAt": "2026-05-05T22:03:36.106Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16108,6 +16108,50 @@
         "files": [],
         "contact": "박종환 032-741-6289",
         "qual": "2026-06-01 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01498600": {
+      "probability": 30,
+      "grade": "C",
+      "strengths": [
+        "원격협업 솔루션",
+        "스마트고글 활용",
+        "AR/XR 기술력"
+      ],
+      "weaknesses": [
+        "사업목표 불일치",
+        "핵심역량 불일치",
+        "AR/XR 필요성 낮음",
+        "IT/컨설팅 경쟁"
+      ],
+      "strategy": "AR/XR로 분석 효율화",
+      "summary": "AR/XR 간접 활용, 핵심 불일치",
+      "savedAt": 1778018616103,
+      "_bid": {
+        "id": "G2B-R26BK01498600",
+        "bidNo": "R26BK01498600",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[중개] 재활로봇중개연구사업의 종합적 성과 관리 및 분석",
+        "agency": "조달청 서울지방조달청",
+        "demandAgency": "",
+        "budget": "153,928,182원",
+        "deadline": "2026-05-21 10:00:00",
+        "openDate": "2026-05-21 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "[중개] 재활로봇중개연구사업의 종합적 성과 관리 및 분석",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01498600&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장기순 02-590-8884",
+        "qual": "2026-05-20 18:00",
         "source": "g2b"
       }
     }
