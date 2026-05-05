@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:58:25.896Z",
+  "updatedAt": "2026-05-05T21:58:37.434Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15035,6 +15035,48 @@
         "description": "2026 경북 메타버스 XR 체험존 운영 용역",
         "requirements": [],
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01486896&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최준한 054-740-7318",
+        "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01501688": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "XR/AR 전문기업",
+        "다양한 제품군",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "예산 규모 작음",
+        "경쟁 심화 우려"
+      ],
+      "strategy": "기술력/운영 강조",
+      "summary": "XR 체험존 최적",
+      "savedAt": 1778018317432,
+      "_bid": {
+        "id": "G2B-R26BK01501688",
+        "bidNo": "R26BK01501688",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026 경북 메타버스 XR 체험존 운영 용역",
+        "agency": "경상북도문화관광공사",
+        "demandAgency": "",
+        "budget": "84,090,909원",
+        "deadline": "-",
+        "openDate": "2026-05-15 14:00:00",
+        "openPlace": "경상북도문화관광공사 엑스포사업단 대회의실(경북 경주시 경감로 614)",
+        "postDate": "2026-05-04",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "2026 경북 메타버스 XR 체험존 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01501688&bidPbancOrd=000",
         "specUrl": "",
         "draftUrl": "",
         "files": [],
