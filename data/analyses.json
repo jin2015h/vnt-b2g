@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:05:26.164Z",
+  "updatedAt": "2026-05-05T22:05:35.044Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16546,6 +16546,42 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121589",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121583": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "상장기업",
+        "혁신 AR/XR 기술",
+        "글로벌 진출 목표"
+      ],
+      "weaknesses": [
+        "경쟁 심화",
+        "예산 불확실성"
+      ],
+      "strategy": "글로벌 확장 강조",
+      "summary": "혁신기술 기반 해외인증 적합",
+      "savedAt": 1778018735040,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121583",
+        "stage": "지원사업",
+        "title": "[경기] 성남시 2026년 해외규격인증 획득 지원사업 참가기업 모집 추가 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-21",
+        "postDate": "2026-04-28",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경기] 성남시 2026년 해외규격인증 획득 지원사업 참가기업 모집 추가 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121583",
         "source": "bizinfo"
       }
     }
