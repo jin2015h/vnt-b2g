@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:47:23.518Z",
+  "updatedAt": "2026-05-05T21:47:30.761Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12436,6 +12436,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "차도빈 070-4056-8393",
+        "qual": "2026-05-06 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01487194": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "스마트고글",
+        "원격협업 솔루션"
+      ],
+      "weaknesses": [
+        "사업분야 불일치",
+        "장비 임차 불가"
+      ],
+      "strategy": "수주 포기 권고",
+      "summary": "VIRNECT 사업과 무관, 수주 가능성 매우 낮음.",
+      "savedAt": 1778017650760,
+      "_bid": {
+        "id": "G2B-R26BK01487194",
+        "bidNo": "R26BK01487194",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "벤치탑XRD 및 제타전위측정기 장비 임차",
+        "agency": "한국지질자원연구원",
+        "demandAgency": "",
+        "budget": "58,296,000원",
+        "deadline": "2026-05-07 10:00:00",
+        "openDate": "2026-05-07 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "벤치탑XRD 및 제타전위측정기 장비 임차",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01487194&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "양갑준 042-868-3752",
         "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
