@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:53:35.129Z",
+  "updatedAt": "2026-05-05T21:53:45.375Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14100,6 +14100,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "박정나 063-539-6147",
+        "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01500235": {
+      "probability": 35,
+      "grade": "C",
+      "strengths": [
+        "원격협업 기술",
+        "디지털트윈 연계",
+        "혁신기술 제안"
+      ],
+      "weaknesses": [
+        "드론운영 전문성",
+        "예산 규모 작음"
+      ],
+      "strategy": "AR/XR 연계 강조",
+      "summary": "직접연관성 낮음",
+      "savedAt": 1778018025373,
+      "_bid": {
+        "id": "G2B-R26BK01500235",
+        "bidNo": "R26BK01500235",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "함안 말이산고분군 국가유산 방재드론시스템 운영관리 용역",
+        "agency": "경상남도 함안군",
+        "demandAgency": "",
+        "budget": "28,363,636원",
+        "deadline": "2026-05-08 10:00:00",
+        "openDate": "2026-05-08 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "함안 말이산고분군 국가유산 방재드론시스템 운영관리 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500235&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "강민정 055-580-2184",
         "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
