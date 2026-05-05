@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:51:51.452Z",
+  "updatedAt": "2026-05-05T21:52:02.729Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13677,6 +13677,48 @@
         "files": [],
         "contact": "박주영 031-460-5449",
         "qual": "2026-05-05 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01500474": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력",
+        "원격협업 솔루션",
+        "스마트고글 활용"
+      ],
+      "weaknesses": [
+        "용역 범위 불일치",
+        "해외연수 경험 부족"
+      ],
+      "strategy": "원격협업/스마트고글로 해외연수 교육 효과 극대화 제안.",
+      "summary": "AR/XR 기술로 교육 혁신, 해외연수 용역 범위 전략 필요.",
+      "savedAt": 1778017922727,
+      "_bid": {
+        "id": "G2B-R26BK01500474",
+        "bidNo": "R26BK01500474",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[RISE-의학] 글로벌 IPE 및 임상시뮬레이션 교육 해외연수 용역(재공고)",
+        "agency": "영남대학교",
+        "demandAgency": "",
+        "budget": "90,227,273원",
+        "deadline": "2026-05-07 10:30:00",
+        "openDate": "2026-05-07 15:30:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "[RISE-의학] 글로벌 IPE 및 임상시뮬레이션 교육 해외연수 용역(재공고)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500474&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이한빈 053-810-1274",
+        "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
     }
