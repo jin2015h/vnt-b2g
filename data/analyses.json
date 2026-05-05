@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:50:06.824Z",
+  "updatedAt": "2026-05-05T21:50:17.757Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13212,6 +13212,49 @@
         "files": [],
         "contact": "차도빈 070-4056-8393",
         "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01491718": {
+      "probability": 25,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 연계",
+        "연구기관 발주처",
+        "AR/XR 시각화"
+      ],
+      "weaknesses": [
+        "로봇AI 전문성 부족",
+        "예산 규모 작음",
+        "핵심사업 불일치"
+      ],
+      "strategy": "디지털트윈 강조",
+      "summary": "핵심기술 불일치",
+      "savedAt": 1778017817750,
+      "_bid": {
+        "id": "G2B-R26BK01491718",
+        "bidNo": "R26BK01491718",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "물리 지식 기반 AI를 활용한 로봇 경로 최적화 기술",
+        "agency": "한국생산기술연구원",
+        "demandAgency": "",
+        "budget": "30,000,000원",
+        "deadline": "2026-05-11 10:00:00",
+        "openDate": "2026-05-11 11:00:00",
+        "openPlace": "우리 원 구매자산실 입찰집행관 PC",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "물리 지식 기반 AI를 활용한 로봇 경로 최적화 기술",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01491718&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "권세운 041-589-8532",
+        "qual": "2026-05-08 18:00",
         "source": "g2b"
       }
     }
