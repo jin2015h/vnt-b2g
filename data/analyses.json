@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:46:29.014Z",
+  "updatedAt": "2026-05-05T21:46:39.725Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12224,6 +12224,49 @@
         "files": [],
         "contact": "안치민 042-724-6479",
         "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01477473": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "혁신 기술 보유",
+        "코스닥 상장사",
+        "기술력 우수"
+      ],
+      "weaknesses": [
+        "핵심 역량 불일치",
+        "금융 IT 경험 부족",
+        "사업 분야 상이"
+      ],
+      "strategy": "컨소시엄 구성",
+      "summary": "핵심 역량 불일치로 수주 희박",
+      "savedAt": 1778017599722,
+      "_bid": {
+        "id": "G2B-R26BK01477473",
+        "bidNo": "R26BK01477473",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "XBRL 재무공시의 IFRS18 적용 등을 위한 DART 시스템 개선 사업",
+        "agency": "금융감독원",
+        "demandAgency": "",
+        "budget": "1,584,745,455원",
+        "deadline": "2026-05-06 17:00:00",
+        "openDate": "2026-05-13 10:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-21",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "XBRL 재무공시의 IFRS18 적용 등을 위한 DART 시스템 개선 사업",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01477473&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김민성 02-3145-8613",
+        "qual": "2026-05-06 17:00",
         "source": "g2b"
       }
     }
