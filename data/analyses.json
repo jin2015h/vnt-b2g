@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:55:46.303Z",
+  "updatedAt": "2026-05-05T21:55:57.788Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14565,6 +14565,50 @@
         "files": [],
         "contact": "석재원 043-830-4035",
         "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01495501": {
+      "probability": 70,
+      "grade": "B",
+      "strengths": [
+        "스마트 안전장비 적합",
+        "AR/XR 선도 기술",
+        "상장사 신뢰도",
+        "실제 적용 경험"
+      ],
+      "weaknesses": [
+        "연구 용역 경험 부족",
+        "예산 규모 작음",
+        "연구 용역 특성"
+      ],
+      "strategy": "기술 전문성 강조, 협력 방안 모색, 실증 사례 제시, 연구 방법론 제안",
+      "summary": "AR/XR 기술 적합하나, 연구 용역 특성 고려한 전략 필요.",
+      "savedAt": 1778018157780,
+      "_bid": {
+        "id": "G2B-R26BK01495501",
+        "bidNo": "R26BK01495501",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "한국농어촌공사 공종별 스마트 안전장비 표준 분류 및 수용도 분석 연구 용역",
+        "agency": "한국농어촌공사 농어촌연구원",
+        "demandAgency": "",
+        "budget": "27,272,727원",
+        "deadline": "2026-05-11 10:00:00",
+        "openDate": "2026-05-11 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "한국농어촌공사 공종별 스마트 안전장비 표준 분류 및 수용도 분석 연구 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01495501&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "권정은 031-400-1634",
+        "qual": "2026-05-11 10:00",
         "source": "g2b"
       }
     }
