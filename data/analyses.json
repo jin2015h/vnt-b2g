@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:50:49.379Z",
+  "updatedAt": "2026-05-05T21:51:00.377Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13423,6 +13423,48 @@
         "files": [],
         "contact": "이지윤 042-870-1334",
         "qual": "2026-06-02 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01482311": {
+      "probability": 10,
+      "grade": "D",
+      "strengths": [
+        "혁신 기술 보유",
+        "원격 교육 가능성",
+        "기술 기반 차별화"
+      ],
+      "weaknesses": [
+        "핵심 역량 불일치",
+        "운영 경험 부족"
+      ],
+      "strategy": "AR/XR 교육 접목 제안",
+      "summary": "핵심 역량 불일치. 수주 어려움.",
+      "savedAt": 1778017860375,
+      "_bid": {
+        "id": "G2B-R26BK01482311",
+        "bidNo": "R26BK01482311",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 IBK기업은행「Jump-Up! START 연수」운영 위탁용역",
+        "agency": "중소기업은행",
+        "demandAgency": "",
+        "budget": "2,745,454,545원",
+        "deadline": "2026-06-02 10:00:00",
+        "openDate": "2026-06-02 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 IBK기업은행「Jump-Up! START 연수」운영 위탁용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01482311&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "윤여정 02-729-7197",
+        "qual": "2026-06-01 18:00",
         "source": "g2b"
       }
     }
