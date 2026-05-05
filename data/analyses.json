@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:57:24.594Z",
+  "updatedAt": "2026-05-05T21:57:36.076Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14827,6 +14827,48 @@
         "files": [],
         "contact": "김성은 055-772-4477",
         "qual": "2026-05-10 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01500908": {
+      "probability": 55,
+      "grade": "C",
+      "strengths": [
+        "디지털트윈 전문",
+        "스마트고글 활용",
+        "혁신기술 제안"
+      ],
+      "weaknesses": [
+        "AI 연구 역량 부족",
+        "수요조사 경험 부족"
+      ],
+      "strategy": "AR/XR 비전 제시, AI 협력",
+      "summary": "AR/XR 강점, AI 보완 필요",
+      "savedAt": 1778018256071,
+      "_bid": {
+        "id": "G2B-R26BK01500908",
+        "bidNo": "R26BK01500908",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "울산 피지컬 AI 스퀘어 구축 수요조사 및 연구용역",
+        "agency": "재단법인 울산정보산업진흥원",
+        "demandAgency": "",
+        "budget": "45,454,545원",
+        "deadline": "2026-05-12 10:00:00",
+        "openDate": "2026-05-12 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "AI",
+        "keywords": [],
+        "description": "울산 피지컬 AI 스퀘어 구축 수요조사 및 연구용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500908&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장현진 052-210-0212",
+        "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
     }
