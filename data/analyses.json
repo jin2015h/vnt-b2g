@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:51:38.542Z",
+  "updatedAt": "2026-05-05T21:51:51.452Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13635,6 +13635,48 @@
         "files": [],
         "contact": "이시우 042-860-2618",
         "qual": "2026-05-06 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01493235": {
+      "probability": 70,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈",
+        "AR/XR 시각화",
+        "정밀 공간매핑"
+      ],
+      "weaknesses": [
+        "예산 규모 작음",
+        "전문 시뮬레이션"
+      ],
+      "strategy": "DT 시뮬레이션 강조, AR/XR 시각화, 철도 특화 협력.",
+      "summary": "DT 기술로 시뮬 가능성 높음. 예산 및 전문성 보완 필요.",
+      "savedAt": 1778017911450,
+      "_bid": {
+        "id": "G2B-R26BK01493235",
+        "bidNo": "R26BK01493235",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "대심도 철도시설물 대피를 위한 데이터 기반 시뮬레이션 및 예측 시스템 개발",
+        "agency": "한국철도기술연구원",
+        "demandAgency": "",
+        "budget": "68,181,818원",
+        "deadline": "2026-05-06 11:00:00",
+        "openDate": "2026-05-06 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "대심도 철도시설물 대피를 위한 데이터 기반 시뮬레이션 및 예측 시스템 개발",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01493235&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박주영 031-460-5449",
+        "qual": "2026-05-05 18:00",
         "source": "g2b"
       }
     }
