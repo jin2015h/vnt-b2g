@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:02:59.911Z",
+  "updatedAt": "2026-05-05T22:03:12.461Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16024,6 +16024,48 @@
         "files": [],
         "contact": "김민정 031-740-0354",
         "qual": "2026-06-04 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01480890": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "혁신 AR/XR 기술",
+        "다양한 솔루션",
+        "기술력 우수"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "경쟁사 우위"
+      ],
+      "strategy": "AR/XR 활용 가치 제안, 파트너십 모색",
+      "summary": "사업 불일치, 수주 낮음.",
+      "savedAt": 1778018592453,
+      "_bid": {
+        "id": "G2B-R26BK01480890",
+        "bidNo": "R26BK01480890",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "「제24회 한국로봇항공기 경연대회」 시설설치 및 물품임차 용역 (1식)",
+        "agency": "한국항공대학교",
+        "demandAgency": "",
+        "budget": "136,363,636원",
+        "deadline": "-",
+        "openDate": "2026-05-07 14:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "「제24회 한국로봇항공기 경연대회」 시설설치 및 물품임차 용역 (1식)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480890&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "전종표 02-300-0036",
+        "qual": "",
         "source": "g2b"
       }
     }
