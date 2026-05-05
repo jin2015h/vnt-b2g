@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:04:37.668Z",
+  "updatedAt": "2026-05-05T22:04:46.723Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16395,6 +16395,42 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121594",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121593": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "혁신 기술 보유",
+        "산업용 AR/XR"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "B2B 중심 사업",
+        "제품군 부적합"
+      ],
+      "strategy": "참여 재고 필요",
+      "summary": "사업 분야 불일치로 수주 가능성 매우 낮음.",
+      "savedAt": 1778018686721,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121593",
+        "stage": "지원사업",
+        "title": "[충남] 2026년 공산품 온라인 판로지원 사업 참가기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "-",
+        "postDate": "2026-05-04",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[충남] 2026년 공산품 온라인 판로지원 사업 참가기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121593",
         "source": "bizinfo"
       }
     }
