@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:49:42.320Z",
+  "updatedAt": "2026-05-05T21:49:53.136Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13083,6 +13083,48 @@
         "files": [],
         "contact": "이광수 031-428-7311",
         "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01496116": {
+      "probability": 45,
+      "grade": "C",
+      "strengths": [
+        "스마트 안전장비",
+        "AI 기술력 보유",
+        "맞춤형 솔루션"
+      ],
+      "weaknesses": [
+        "CCTV 비전문",
+        "핵심제품 불일치"
+      ],
+      "strategy": "통합 안전 솔루션 제안",
+      "summary": "CCTV 전문성 부족, 통합 솔루션으로 승부.",
+      "savedAt": 1778017793129,
+      "_bid": {
+        "id": "G2B-R26BK01496116",
+        "bidNo": "R26BK01496116",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "스마트 안전장비 현장 맞춤형 지원사업 운영 장비 계약(On-device AI 이동식 CCTV)",
+        "agency": "국토안전관리원",
+        "demandAgency": "",
+        "budget": "60,000,000원",
+        "deadline": "2026-05-11 12:00:00",
+        "openDate": "2026-05-11 13:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "스마트 안전장비 현장 맞춤형 지원사업 운영 장비 계약(On-device AI 이동식 CCTV)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01496116&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김형수 055-771-4634",
+        "qual": "2026-05-10 18:00",
         "source": "g2b"
       }
     }
