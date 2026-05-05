@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:03:36.106Z",
+  "updatedAt": "2026-05-05T22:03:44.467Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16152,6 +16152,49 @@
         "files": [],
         "contact": "장기순 02-590-8884",
         "qual": "2026-05-20 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01489934": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "혁신 기술 기업",
+        "디지털 콘텐츠",
+        "잠재적 확장성"
+      ],
+      "weaknesses": [
+        "핵심사업 불일치",
+        "드론쇼 경험 전무",
+        "경쟁사 전문성"
+      ],
+      "strategy": "드론쇼 전문 협력",
+      "summary": "핵심사업과 괴리",
+      "savedAt": 1778018624465,
+      "_bid": {
+        "id": "G2B-R26BK01489934",
+        "bidNo": "R26BK01489934",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026 강릉국가유산야행 「드론, 강릉 국가유산 그리다」 드론 라이트 쇼 기획 및 운영 용역",
+        "agency": "강릉문화원",
+        "demandAgency": "",
+        "budget": "100,000,000원",
+        "deadline": "-",
+        "openDate": "2026-05-08 17:00:00",
+        "openPlace": "강릉문화원(강릉시 하슬라로 96, 1층)",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "2026 강릉국가유산야행 「드론, 강릉 국가유산 그리다」 드론 라이트 쇼 기획 및 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01489934&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최현규 033-823-3205",
+        "qual": "",
         "source": "g2b"
       }
     }
