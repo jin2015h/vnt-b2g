@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:57:36.076Z",
+  "updatedAt": "2026-05-05T21:57:46.053Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14869,6 +14869,48 @@
         "files": [],
         "contact": "장현진 052-210-0212",
         "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01489202": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "첨단기술 이해",
+        "디지털트윈 경험"
+      ],
+      "weaknesses": [
+        "드론전략 컨설팅X",
+        "핵심사업 불일치",
+        "컨설팅 경험 부족"
+      ],
+      "strategy": "전문 컨설팅 협력",
+      "summary": "사업영역 불일치로 수주난",
+      "savedAt": 1778018266045,
+      "_bid": {
+        "id": "G2B-R26BK01489202",
+        "bidNo": "R26BK01489202",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "드론 해외진출을 위한 중장기 진출전략 수립 용역",
+        "agency": "한국교통안전공단 김천드론자격센터",
+        "demandAgency": "",
+        "budget": "48,069,951원",
+        "deadline": "2026-05-11 12:00:00",
+        "openDate": "2026-05-18 14:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "드론 해외진출을 위한 중장기 진출전략 수립 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01489202&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이상구 054-421-1006",
+        "qual": "2026-05-10 18:00",
         "source": "g2b"
       }
     }
