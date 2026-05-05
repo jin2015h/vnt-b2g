@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:49:07.160Z",
+  "updatedAt": "2026-05-05T21:49:14.841Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12913,6 +12913,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "김상헌 032-420-6580",
+        "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01500204": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 제품",
+        "산업 AR/XR 경험",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "예산 규모 작음",
+        "물리해석 전문성"
+      ],
+      "strategy": "Twin 제품 강점 부각",
+      "summary": "제품 적합성 우수",
+      "savedAt": 1778017754834,
+      "_bid": {
+        "id": "G2B-R26BK01500204",
+        "bidNo": "R26BK01500204",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "주조 후공정 물리해석 기반의 디지털트윈모델 설계",
+        "agency": "한국생산기술연구원",
+        "demandAgency": "",
+        "budget": "22,730,000원",
+        "deadline": "2026-05-12 12:00:00",
+        "openDate": "2026-05-12 13:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "주조 후공정 물리해석 기반의 디지털트윈모델 설계",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500204&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김관호 041-589-8546",
         "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
