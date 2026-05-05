@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:47:03.780Z",
+  "updatedAt": "2026-05-05T21:47:15.054Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12351,6 +12351,49 @@
         "files": [],
         "contact": "박인호 044-201-6263",
         "qual": "2026-05-06 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01485061": {
+      "probability": 35,
+      "grade": "C",
+      "strengths": [
+        "원격협업 기술",
+        "AR/XR 시각화",
+        "혁신 교육 가능"
+      ],
+      "weaknesses": [
+        "핵심기술 불일치",
+        "QSAR 전문성 부족",
+        "직접 필요성 낮음"
+      ],
+      "strategy": "AR/XR 교육효과 강조, QSAR 시각화",
+      "summary": "AR/XR로 QSAR 교육 혁신 제안",
+      "savedAt": 1778017635051,
+      "_bid": {
+        "id": "G2B-R26BK01485061",
+        "bidNo": "R26BK01485061",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "신규화학물질 신고제도 대응을 위한 QSAR 활용 교육체계 구축 및 시범 운영",
+        "agency": "조달청 인천지방조달청",
+        "demandAgency": "",
+        "budget": "104,545,455원",
+        "deadline": "2026-05-08 10:00:00",
+        "openDate": "2026-05-08 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-24",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "신규화학물질 신고제도 대응을 위한 QSAR 활용 교육체계 구축 및 시범 운영",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01485061&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "한범수 070-4056-7783",
+        "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
     }
