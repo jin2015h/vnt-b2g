@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:00:57.605Z",
+  "updatedAt": "2026-05-05T22:01:12.570Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15628,6 +15628,45 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121590",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121588": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "산업 특화 솔루션",
+        "코스닥 상장사",
+        "원격협업/디지털"
+      ],
+      "weaknesses": [
+        "직접 수주 아님",
+        "사업 성격 모호",
+        "예산 미정",
+        "경쟁사 존재"
+      ],
+      "strategy": "기술코칭 연계 제안, 솔루션 도입 효과 강조, 타 지자체 성공사례, 플랫폼 연동 방안",
+      "summary": "AR/XR 기술력 기반, 기술코칭 사업 연계 가능성.",
+      "savedAt": 1778018472568,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121588",
+        "stage": "지원사업",
+        "title": "[경기] 남양주시 2026년 기술코칭 지원 참여기업 모집 공고(국가기술거래플랫폼서비스사업)",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-18",
+        "postDate": "2026-04-28",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경기] 남양주시 2026년 기술코칭 지원 참여기업 모집 공고(국가기술거래플랫폼서비스사업)",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121588",
         "source": "bizinfo"
       }
     }
