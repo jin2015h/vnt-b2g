@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:52:02.729Z",
+  "updatedAt": "2026-05-05T21:52:14.757Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13718,6 +13718,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "이한빈 053-810-1274",
+        "qual": "2026-05-06 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01480925": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 기술",
+        "시뮬레이션 강점",
+        "AR 시각화 가능"
+      ],
+      "weaknesses": [
+        "AI 전문성 부족",
+        "우주 분야 경험"
+      ],
+      "strategy": "DT/AR 강조, AI 연동",
+      "summary": "DT/AR 강점, AI 보완",
+      "savedAt": 1778017934753,
+      "_bid": {
+        "id": "G2B-R26BK01480925",
+        "bidNo": "R26BK01480925",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "(재공고) 월면 우주 로봇 인공 지능 전산 모사 연구",
+        "agency": "한국항공우주연구원",
+        "demandAgency": "",
+        "budget": "40,090,909원",
+        "deadline": "2026-05-07 10:00:00",
+        "openDate": "2026-05-07 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "(재공고) 월면 우주 로봇 인공 지능 전산 모사 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480925&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김예슬 042-860-2614",
         "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
