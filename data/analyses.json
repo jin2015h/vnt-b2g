@@ -1,6 +1,213 @@
 {
-  "updatedAt": "2026-04-08T07:01:18.485Z",
+  "updatedAt": "2026-05-05T21:46:29.014Z",
   "analyses": {
+    "BIZ-PBLN_000000000120201": {
+      "probability": 35,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 기술력 보유",
+        "원격협업 솔루션",
+        "디지털트윈 역량"
+      ],
+      "weaknesses": [
+        "사업 연관성 낮음",
+        "요구사항 불명확"
+      ],
+      "strategy": "AR/XR로 R&D 효율화",
+      "summary": "AR/XR R&D 지원 제안",
+      "savedAt": 1774943647077,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000120201",
+        "stage": "지원사업",
+        "title": "[경기] 포천시 2026년 신소재개발 프로그램 지원사업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-09-30",
+        "postDate": "2026-03-18",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경기] 포천시 2026년 신소재개발 프로그램 지원사업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000120201",
+        "source": "bizinfo"
+      }
+    },
+    "G2B-R26BK01441766": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "국방 분야 잠재력",
+        "기술력 인정",
+        "원격협업 기술"
+      ],
+      "weaknesses": [
+        "핵심사업 불일치",
+        "운송 전문성 부족",
+        "AR/XR 활용성↓"
+      ],
+      "strategy": "입찰 참여 지양",
+      "summary": "AR/XR 기업, 운송 용역과 무관. 수주 가능성 매우 낮음.",
+      "savedAt": 1775631096602,
+      "_bid": {
+        "id": "G2B-R26BK01441766",
+        "bidNo": "R26BK01441766",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "SAR검증위성 및 지원장비 발사장 운송 용역/사후원가검토조건부계약",
+        "agency": "국방과학연구소",
+        "demandAgency": "",
+        "budget": "745,545,455원",
+        "deadline": "2026-05-14 10:00:00",
+        "openDate": "2026-05-29 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-03",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "SAR검증위성 및 지원장비 발사장 운송 용역/사후원가검토조건부계약",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01441766&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이민주",
+        "qual": "2026-05-13 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01437527": {
+      "probability": 25,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "디지털트윈 활용",
+        "로봇 분류 연관",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "행사 대행 경험↓",
+        "드론쇼 전문성↓",
+        "주력사업과 괴리"
+      ],
+      "strategy": "컨소시엄 구성",
+      "summary": "행사 경험 부족, 컨소시엄 필수.",
+      "savedAt": 1775631462434,
+      "_bid": {
+        "id": "G2B-R26BK01437527",
+        "bidNo": "R26BK01437527",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "「2026 광안리 M 드론라이트쇼」 행사 대행 용역",
+        "agency": "부산광역시 수영구",
+        "demandAgency": "",
+        "budget": "1,818,181,818원",
+        "deadline": "2026-05-13 17:00:00",
+        "openDate": "2026-05-19 14:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-02",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "「2026 광안리 M 드론라이트쇼」 행사 대행 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01437527&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "양나현 051-610-4146",
+        "qual": "2026-05-12 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R25BK01239108": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "스마트고글 보유",
+        "원격협업 솔루션"
+      ],
+      "weaknesses": [
+        "로봇사업 불일치",
+        "임대서비스 경험無"
+      ],
+      "strategy": "로봇기업과 협력",
+      "summary": "로봇 임대사업과 불일치, 수주 가능성 매우 낮음.",
+      "savedAt": 1775631483858,
+      "_bid": {
+        "id": "G2B-R25BK01239108",
+        "bidNo": "R25BK01239108",
+        "bidOrd": "002",
+        "stage": "입찰공고",
+        "title": "개인서비스용로봇 임대서비스",
+        "agency": "조달청",
+        "demandAgency": "",
+        "budget": "9,090,909,090원",
+        "deadline": "2031-08-20 18:00:00",
+        "openDate": "2030-12-18 18:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-02",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "개인서비스용로봇 임대서비스",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R25BK01239108&bidPbancOrd=002",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김원균 070-4056-6129",
+        "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01442558": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 연계",
+        "원격협업 솔루션",
+        "기술력 보유"
+      ],
+      "weaknesses": [
+        "핵심사업 불일치",
+        "HW 전문성 부족"
+      ],
+      "strategy": "협력사 통해 HW 구축, AR/XR 솔루션 연동 제안",
+      "summary": "AR/XR 연계성 낮아, 협력 필수.",
+      "savedAt": 1775631495936,
+      "_bid": {
+        "id": "G2B-R26BK01442558",
+        "bidNo": "R26BK01442558",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "레일로봇을 활용한 자동유량측정시설 검·보정측정 레일 개발·제작 및 설치 용역",
+        "agency": "한국수자원조사기술원",
+        "demandAgency": "",
+        "budget": "567,327,209원",
+        "deadline": "2026-05-18 10:00:00",
+        "openDate": "2026-05-18 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "레일로봇을 활용한 자동유량측정시설 검·보정측정 레일 개발·제작 및 설치 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01442558&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박형재 031-929-0992",
+        "qual": "2026-05-17 18:00",
+        "source": "g2b"
+      }
+    },
     "G2B-R26BK01399242": {
       "probability": 25,
       "grade": "D",
@@ -1265,42 +1472,6 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000120203",
-        "source": "bizinfo"
-      }
-    },
-    "BIZ-PBLN_000000000120201": {
-      "probability": 35,
-      "grade": "C",
-      "strengths": [
-        "AR/XR 기술력 보유",
-        "원격협업 솔루션",
-        "디지털트윈 역량"
-      ],
-      "weaknesses": [
-        "사업 연관성 낮음",
-        "요구사항 불명확"
-      ],
-      "strategy": "AR/XR로 R&D 효율화",
-      "summary": "AR/XR R&D 지원 제안",
-      "savedAt": 1774943647077,
-      "_bid": {
-        "id": "BIZ-PBLN_000000000120201",
-        "stage": "지원사업",
-        "title": "[경기] 포천시 2026년 신소재개발 프로그램 지원사업 모집 공고",
-        "agency": "",
-        "demandAgency": "",
-        "budget": "미정",
-        "deadline": "2026-09-30",
-        "postDate": "2026-03-18",
-        "contractType": "공모/지원",
-        "category": "기타",
-        "keywords": [],
-        "description": "[경기] 포천시 2026년 신소재개발 프로그램 지원사업 모집 공고",
-        "requirements": [],
-        "specUrl": "",
-        "draftUrl": "",
-        "contact": "",
-        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000120201",
         "source": "bizinfo"
       }
     },
@@ -10053,49 +10224,6 @@
         "source": "g2b"
       }
     },
-    "G2B-R26BK01441766": {
-      "probability": 5,
-      "grade": "D",
-      "strengths": [
-        "국방 분야 잠재력",
-        "기술력 인정",
-        "원격협업 기술"
-      ],
-      "weaknesses": [
-        "핵심사업 불일치",
-        "운송 전문성 부족",
-        "AR/XR 활용성↓"
-      ],
-      "strategy": "입찰 참여 지양",
-      "summary": "AR/XR 기업, 운송 용역과 무관. 수주 가능성 매우 낮음.",
-      "savedAt": 1775631096602,
-      "_bid": {
-        "id": "G2B-R26BK01441766",
-        "bidNo": "R26BK01441766",
-        "bidOrd": "000",
-        "stage": "입찰공고",
-        "title": "SAR검증위성 및 지원장비 발사장 운송 용역/사후원가검토조건부계약",
-        "agency": "국방과학연구소",
-        "demandAgency": "",
-        "budget": "745,545,455원",
-        "deadline": "2026-05-14 10:00:00",
-        "openDate": "2026-05-29 11:00:00",
-        "openPlace": "국가종합전자조달시스템(나라장터)",
-        "postDate": "2026-04-03",
-        "contractType": "입찰",
-        "category": "기타",
-        "keywords": [],
-        "description": "SAR검증위성 및 지원장비 발사장 운송 용역/사후원가검토조건부계약",
-        "requirements": [],
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01441766&bidPbancOrd=000",
-        "specUrl": "",
-        "draftUrl": "",
-        "files": [],
-        "contact": "이민주",
-        "qual": "2026-05-13 18:00",
-        "source": "g2b"
-      }
-    },
     "G2B-R26BK01441866": {
       "probability": 10,
       "grade": "D",
@@ -11393,50 +11521,6 @@
         "source": "g2b"
       }
     },
-    "G2B-R26BK01437527": {
-      "probability": 25,
-      "grade": "D",
-      "strengths": [
-        "AR/XR 기술력",
-        "디지털트윈 활용",
-        "로봇 분류 연관",
-        "코스닥 상장사"
-      ],
-      "weaknesses": [
-        "행사 대행 경험↓",
-        "드론쇼 전문성↓",
-        "주력사업과 괴리"
-      ],
-      "strategy": "컨소시엄 구성",
-      "summary": "행사 경험 부족, 컨소시엄 필수.",
-      "savedAt": 1775631462434,
-      "_bid": {
-        "id": "G2B-R26BK01437527",
-        "bidNo": "R26BK01437527",
-        "bidOrd": "000",
-        "stage": "입찰공고",
-        "title": "「2026 광안리 M 드론라이트쇼」 행사 대행 용역",
-        "agency": "부산광역시 수영구",
-        "demandAgency": "",
-        "budget": "1,818,181,818원",
-        "deadline": "2026-05-13 17:00:00",
-        "openDate": "2026-05-19 14:00:00",
-        "openPlace": "국가종합전자조달시스템(나라장터)",
-        "postDate": "2026-04-02",
-        "contractType": "입찰",
-        "category": "로봇",
-        "keywords": [],
-        "description": "「2026 광안리 M 드론라이트쇼」 행사 대행 용역",
-        "requirements": [],
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01437527&bidPbancOrd=000",
-        "specUrl": "",
-        "draftUrl": "",
-        "files": [],
-        "contact": "양나현 051-610-4146",
-        "qual": "2026-05-12 18:00",
-        "source": "g2b"
-      }
-    },
     "G2B-R26BK01444281": {
       "probability": 15,
       "grade": "D",
@@ -11476,90 +11560,6 @@
         "files": [],
         "contact": "최선호 02-3151-1514",
         "qual": "2026-04-16 18:00",
-        "source": "g2b"
-      }
-    },
-    "G2B-R25BK01239108": {
-      "probability": 5,
-      "grade": "D",
-      "strengths": [
-        "AR/XR 기술력 우수",
-        "스마트고글 보유",
-        "원격협업 솔루션"
-      ],
-      "weaknesses": [
-        "로봇사업 불일치",
-        "임대서비스 경험無"
-      ],
-      "strategy": "로봇기업과 협력",
-      "summary": "로봇 임대사업과 불일치, 수주 가능성 매우 낮음.",
-      "savedAt": 1775631483858,
-      "_bid": {
-        "id": "G2B-R25BK01239108",
-        "bidNo": "R25BK01239108",
-        "bidOrd": "002",
-        "stage": "입찰공고",
-        "title": "개인서비스용로봇 임대서비스",
-        "agency": "조달청",
-        "demandAgency": "",
-        "budget": "9,090,909,090원",
-        "deadline": "2031-08-20 18:00:00",
-        "openDate": "2030-12-18 18:00:00",
-        "openPlace": "국가종합전자조달시스템(나라장터)",
-        "postDate": "2026-04-02",
-        "contractType": "입찰",
-        "category": "기타",
-        "keywords": [],
-        "description": "개인서비스용로봇 임대서비스",
-        "requirements": [],
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R25BK01239108&bidPbancOrd=002",
-        "specUrl": "",
-        "draftUrl": "",
-        "files": [],
-        "contact": "김원균 070-4056-6129",
-        "qual": "",
-        "source": "g2b"
-      }
-    },
-    "G2B-R26BK01442558": {
-      "probability": 15,
-      "grade": "D",
-      "strengths": [
-        "디지털트윈 연계",
-        "원격협업 솔루션",
-        "기술력 보유"
-      ],
-      "weaknesses": [
-        "핵심사업 불일치",
-        "HW 전문성 부족"
-      ],
-      "strategy": "협력사 통해 HW 구축, AR/XR 솔루션 연동 제안",
-      "summary": "AR/XR 연계성 낮아, 협력 필수.",
-      "savedAt": 1775631495936,
-      "_bid": {
-        "id": "G2B-R26BK01442558",
-        "bidNo": "R26BK01442558",
-        "bidOrd": "000",
-        "stage": "입찰공고",
-        "title": "레일로봇을 활용한 자동유량측정시설 검·보정측정 레일 개발·제작 및 설치 용역",
-        "agency": "한국수자원조사기술원",
-        "demandAgency": "",
-        "budget": "567,327,209원",
-        "deadline": "2026-05-18 10:00:00",
-        "openDate": "2026-05-18 11:00:00",
-        "openPlace": "국가종합전자조달시스템(나라장터)",
-        "postDate": "2026-04-06",
-        "contractType": "입찰",
-        "category": "기타",
-        "keywords": [],
-        "description": "레일로봇을 활용한 자동유량측정시설 검·보정측정 레일 개발·제작 및 설치 용역",
-        "requirements": [],
-        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01442558&bidPbancOrd=000",
-        "specUrl": "",
-        "draftUrl": "",
-        "files": [],
-        "contact": "박형재 031-929-0992",
-        "qual": "2026-05-17 18:00",
         "source": "g2b"
       }
     },
@@ -12183,6 +12183,48 @@
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000120505",
         "source": "bizinfo"
+      }
+    },
+    "G2B-R26BK01484304": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 핵심 기술력",
+        "제품군 사업 적합",
+        "원격 협업/현장 지원"
+      ],
+      "weaknesses": [
+        "산림 분야 경험 부족",
+        "MRV 전문성 입증"
+      ],
+      "strategy": "AR/XR 기술 구체화, 산림 MRV 이해 강조, 전문 협력사 발굴",
+      "summary": "VIRNECT 기술, 산림 MRV 최적.",
+      "savedAt": 1778017589007,
+      "_bid": {
+        "id": "G2B-R26BK01484304",
+        "bidNo": "R26BK01484304",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "산림탄소 MRV 정보체계 구축(4차) 사업",
+        "agency": "조달청",
+        "demandAgency": "",
+        "budget": "1,602,727,273원",
+        "deadline": "2026-05-08 10:00:00",
+        "openDate": "2026-05-08 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-23",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "산림탄소 MRV 정보체계 구축(4차) 사업",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01484304&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "안치민 042-724-6479",
+        "qual": "2026-05-07 18:00",
+        "source": "g2b"
       }
     }
   }
