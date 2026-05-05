@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:51:26.628Z",
+  "updatedAt": "2026-05-05T21:51:38.542Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13592,6 +13592,49 @@
         "files": [],
         "contact": "임효선",
         "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01480959": {
+      "probability": 10,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 기술",
+        "시뮬레이션 경험",
+        "KOSDAQ 상장사"
+      ],
+      "weaknesses": [
+        "RF/통신 전문성 부족",
+        "UAM 특화 분야",
+        "간섭분석 미경험"
+      ],
+      "strategy": "RF전문가와 협력",
+      "summary": "RF간섭분석 전문성 부족, 수주 어려움 예상.",
+      "savedAt": 1778017898539,
+      "_bid": {
+        "id": "G2B-R26BK01480959",
+        "bidNo": "R26BK01480959",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "K-UAM 상공망 후보대역(1.4 GHz) 대상 정지궤도 위성 전파간섭 영향성 분석 시뮬레이션 및 간섭 완화 기술 효과 분석 용역",
+        "agency": "한국항공우주연구원",
+        "demandAgency": "",
+        "budget": "26,727,273원",
+        "deadline": "2026-05-07 10:00:00",
+        "openDate": "2026-05-07 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "K-UAM 상공망 후보대역(1.4 GHz) 대상 정지궤도 위성 전파간섭 영향성 분석 시뮬레이션 및 간섭 완화 기술 효과 분석 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480959&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이시우 042-860-2618",
+        "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
     }
