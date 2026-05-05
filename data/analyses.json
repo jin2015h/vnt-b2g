@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:04:26.329Z",
+  "updatedAt": "2026-05-05T22:04:37.668Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16357,6 +16357,44 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121595",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121594": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "코스닥 상장기업",
+        "AR/XR 핵심기술",
+        "다수 제품 보유",
+        "강력한 지재권",
+        "유망기업 적합"
+      ],
+      "weaknesses": [
+        "경쟁 심화",
+        "충북 연관성 부족"
+      ],
+      "strategy": "IP 가치 상세화,성장 잠재력 강조,충북 기여 방안 제시,기술 혁신성 부각",
+      "summary": "AR/XR 선도기업, IP평가 지원사업 유망",
+      "savedAt": 1778018677665,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121594",
+        "stage": "지원사업",
+        "title": "[충북] 2026년 유망기업 IP투자연계 지식재산평가 지원사업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-22",
+        "postDate": "2026-05-04",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[충북] 2026년 유망기업 IP투자연계 지식재산평가 지원사업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121594",
         "source": "bizinfo"
       }
     }
