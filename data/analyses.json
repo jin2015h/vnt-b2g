@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:49:22.444Z",
+  "updatedAt": "2026-05-05T21:49:33.099Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12999,6 +12999,48 @@
         "files": [],
         "contact": "최호영 054-478-7126",
         "qual": "2026-05-10 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01477952": {
+      "probability": 20,
+      "grade": "D",
+      "strengths": [
+        "XR 산업 이해",
+        "기술력 우수",
+        "시장 인지도"
+      ],
+      "weaknesses": [
+        "조사 용역 경험 부족",
+        "사업 성격 불일치"
+      ],
+      "strategy": "컨소시엄 참여",
+      "summary": "XR 선도기업이나, 조사 용역 성격상 직접 수주 어려움.",
+      "savedAt": 1778017773098,
+      "_bid": {
+        "id": "G2B-R26BK01477952",
+        "bidNo": "R26BK01477952",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 VR·AR산업 실태조사 및 가상융합산업 실태조사(시범) 용역",
+        "agency": "조달청 서울지방조달청",
+        "demandAgency": "",
+        "budget": "109,090,909원",
+        "deadline": "2026-05-14 10:00:00",
+        "openDate": "2026-05-14 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "2026년 VR·AR산업 실태조사 및 가상융합산업 실태조사(시범) 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01477952&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박민선 070-4056-8803",
+        "qual": "2026-05-13 18:00",
         "source": "g2b"
       }
     }
