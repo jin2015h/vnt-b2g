@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:48:35.353Z",
+  "updatedAt": "2026-05-05T21:48:46.548Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12779,6 +12779,51 @@
         "files": [],
         "contact": "이상윤 031-8041-0896",
         "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01480483": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "제품 적합성 우수",
+        "산업 전문성 확보",
+        "통합 솔루션 강점",
+        "ESG 트렌드 부합",
+        "코스닥 상장 신뢰"
+      ],
+      "weaknesses": [
+        "경쟁 심화 우려",
+        "초기 비용 부담",
+        "산업 특화 경험"
+      ],
+      "strategy": "핵심 기술 및 ESG 기여 강조",
+      "summary": "AR/XR 기술로 수주 가능성 높음",
+      "savedAt": 1778017726545,
+      "_bid": {
+        "id": "G2B-R26BK01480483",
+        "bidNo": "R26BK01480483",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "조선해양분야 지능형 ESG MRV 플랫폼 구축 용역",
+        "agency": "조달청",
+        "demandAgency": "",
+        "budget": "1,363,636,364원",
+        "deadline": "2026-05-15 10:00:00",
+        "openDate": "2026-05-15 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "조선해양분야 지능형 ESG MRV 플랫폼 구축 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480483&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "안치민 042-724-6479",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
