@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:56:19.744Z",
+  "updatedAt": "2026-05-05T21:56:34.329Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14655,6 +14655,49 @@
         "files": [],
         "contact": "김형수 055-771-4634",
         "qual": "2026-05-10 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01498349": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "산업 솔루션 경험",
+        "KIST 연구기관"
+      ],
+      "weaknesses": [
+        "로봇 판매 비전문",
+        "제품군 불일치",
+        "하드웨어 조달건"
+      ],
+      "strategy": "입찰 참여 재고",
+      "summary": "AR/XR 전문, 로봇 구매와 무관",
+      "savedAt": 1778018194318,
+      "_bid": {
+        "id": "G2B-R26BK01498349",
+        "bidNo": "R26BK01498349",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[재공고] 협동로봇 구매",
+        "agency": "한국과학기술연구원",
+        "demandAgency": "",
+        "budget": "32,500,000원",
+        "deadline": "2026-05-11 14:00:00",
+        "openDate": "2026-05-11 15:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "[재공고] 협동로봇 구매",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01498349&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김정애 02-958-6304",
+        "qual": "2026-05-11 14:00",
         "source": "g2b"
       }
     }
