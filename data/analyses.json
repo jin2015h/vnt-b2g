@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:53:10.936Z",
+  "updatedAt": "2026-05-05T21:53:22.806Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14015,6 +14015,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "성현진 ***********",
+        "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01490748": {
+      "probability": 50,
+      "grade": "C",
+      "strengths": [
+        "디지털트윈 역량",
+        "AR/XR 기술력",
+        "데이터 처리 전문"
+      ],
+      "weaknesses": [
+        "드론촬영 경험 부족",
+        "주력사업과 차이"
+      ],
+      "strategy": "Twin 연계, 데이터 활용 가치 강조",
+      "summary": "AR/XR 기반 Twin 제안으로 승부",
+      "savedAt": 1778018002799,
+      "_bid": {
+        "id": "G2B-R26BK01490748",
+        "bidNo": "R26BK01490748",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "고해상도 드론촬영",
+        "agency": "한국국토정보공사",
+        "demandAgency": "",
+        "budget": "90,909,091원",
+        "deadline": "2026-05-08 10:00:00",
+        "openDate": "2026-05-08 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "고해상도 드론촬영",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01490748&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "백제환 063-713-1623",
         "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
