@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:01:46.098Z",
+  "updatedAt": "2026-05-05T22:02:07.619Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15775,6 +15775,45 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121584",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121582": {
+      "probability": 90,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 기술력",
+        "원격협업 솔루션",
+        "디지털트윈 역량",
+        "스마트고글 보유",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "예산 미정",
+        "경쟁 심화 우려",
+        "분류 모호성"
+      ],
+      "strategy": "핵심 기술 부각, 통합 솔루션 제시, 성공사례 강조, 플랫폼 확장 제안",
+      "summary": "AR/XR, DT, 원격협업 강점. 혼합상황 플랫폼에 최적화, 수주 유력.",
+      "savedAt": 1778018527617,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121582",
+        "stage": "지원사업",
+        "title": "2026년 2차 자율 비자율 혼합상황 지원 플랫폼 기반조성 3차년도 수혜기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-15",
+        "postDate": "2026-05-04",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 2차 자율 비자율 혼합상황 지원 플랫폼 기반조성 3차년도 수혜기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121582",
         "source": "bizinfo"
       }
     }
