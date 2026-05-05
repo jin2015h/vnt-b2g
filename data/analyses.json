@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:49:33.099Z",
+  "updatedAt": "2026-05-05T21:49:42.320Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13041,6 +13041,48 @@
         "files": [],
         "contact": "박민선 070-4056-8803",
         "qual": "2026-05-13 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01492715": {
+      "probability": 80,
+      "grade": "B",
+      "strengths": [
+        "스마트랩 구축 적합",
+        "원격협업/DT 강점",
+        "KTL 혁신수요 부합"
+      ],
+      "weaknesses": [
+        "세부요구 불확실",
+        "경쟁사 존재 가능"
+      ],
+      "strategy": "제품 시너지 강조, 효율성 및 원격 기능 부각.",
+      "summary": "VIRNECT, 스마트랩 구축 적합, 수주 기대.",
+      "savedAt": 1778017782319,
+      "_bid": {
+        "id": "G2B-R26BK01492715",
+        "bidNo": "R26BK01492715",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "신뢰성검증센터 효율성 향상을 위한 기반구축 장비 연동 Smart-Lab 구축 용역",
+        "agency": "(재)한국기계전기전자시험연구원",
+        "demandAgency": "",
+        "budget": "340,909,091원",
+        "deadline": "2026-05-08 15:00:00",
+        "openDate": "2026-05-08 16:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "신뢰성검증센터 효율성 향상을 위한 기반구축 장비 연동 Smart-Lab 구축 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01492715&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이광수 031-428-7311",
+        "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
     }
