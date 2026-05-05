@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:00:39.560Z",
+  "updatedAt": "2026-05-05T22:00:48.941Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15555,6 +15555,42 @@
         "contact": "장진욱 031-539-5023",
         "qual": "2026-05-14 18:00",
         "source": "g2b"
+      }
+    },
+    "BIZ-PBLN_000000000121596": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 기술력",
+        "K-브랜드 위상",
+        "유럽 시장 확대"
+      ],
+      "weaknesses": [
+        "예산 불확실성",
+        "경쟁 심화 우려"
+      ],
+      "strategy": "기술 시연 및 파트너십",
+      "summary": "AR/XR 기술로 유럽 시장 확대 기회",
+      "savedAt": 1778018448939,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121596",
+        "stage": "지원사업",
+        "title": "2026년 폴란드 K-브랜드 위크 참가기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-20",
+        "postDate": "2026-04-30",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 폴란드 K-브랜드 위크 참가기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121596",
+        "source": "bizinfo"
       }
     }
   }
