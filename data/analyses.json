@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:55:35.390Z",
+  "updatedAt": "2026-05-05T21:55:46.303Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14520,6 +14520,50 @@
         "draftUrl": "",
         "files": [],
         "contact": "조영문 042-860-3242",
+        "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01497355": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 기술력 보유",
+        "디지털트윈 솔루션",
+        "현장 적용성 특화",
+        "정부기관 발주",
+        "3D 시뮬 적합성"
+      ],
+      "weaknesses": [
+        "화학사고 전문성",
+        "경쟁사 존재"
+      ],
+      "strategy": "AR/XR, DT 기술 강조",
+      "summary": "VIRNECT 기술 적합, 수주 높음",
+      "savedAt": 1778018146300,
+      "_bid": {
+        "id": "G2B-R26BK01497355",
+        "bidNo": "R26BK01497355",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "화학사고 시뮬레이션 방법 현장 적용성 평가(2026년도_3차원 시뮬레이션을 활용한 중합단량체 누출사고 피해영향평가)",
+        "agency": "기후에너지환경부 화학물질안전원",
+        "demandAgency": "",
+        "budget": "72,727,273원",
+        "deadline": "2026-05-12 11:00:00",
+        "openDate": "2026-05-12 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "화학사고 시뮬레이션 방법 현장 적용성 평가(2026년도_3차원 시뮬레이션을 활용한 중합단량체 누출사고 피해영향평가)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01497355&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "석재원 043-830-4035",
         "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
