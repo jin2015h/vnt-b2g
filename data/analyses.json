@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:52:52.790Z",
+  "updatedAt": "2026-05-05T21:53:03.423Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13930,6 +13930,49 @@
         "draftUrl": "",
         "files": [],
         "contact": "김진욱 055-751-5533",
+        "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01481769": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 기술",
+        "AR/XR 선도기업",
+        "연구개발 역량"
+      ],
+      "weaknesses": [
+        "초분광/드론 경험無",
+        "ML 분석 분야 상이",
+        "사업분야 불일치"
+      ],
+      "strategy": "전문기관과 협력",
+      "summary": "핵심 역량 불일치로 수주 가능성 낮음. 컨소시엄 필수.",
+      "savedAt": 1778017983421,
+      "_bid": {
+        "id": "G2B-R26BK01481769",
+        "bidNo": "R26BK01481769",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "드론 초분광 기반 머신러닝 분석기술 기초 연구",
+        "agency": "국가유산청 국립문화유산연구원",
+        "demandAgency": "",
+        "budget": "80,727,273원",
+        "deadline": "2026-05-08 10:00:00",
+        "openDate": "2026-05-08 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-23",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "드론 초분광 기반 머신러닝 분석기술 기초 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01481769&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "임동수 042-860-9129",
         "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
