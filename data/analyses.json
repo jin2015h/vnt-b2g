@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:04:46.723Z",
+  "updatedAt": "2026-05-05T22:04:56.925Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16431,6 +16431,43 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121593",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121592": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "산업용 솔루션",
+        "원격협업 가능"
+      ],
+      "weaknesses": [
+        "사업목적 불일치",
+        "소상공인 니즈 부적합",
+        "높은 솔루션 비용"
+      ],
+      "strategy": "참여 재고 필요",
+      "summary": "소상공인 사업과 AR/XR 기술 연관성 낮음.",
+      "savedAt": 1778018696923,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121592",
+        "stage": "지원사업",
+        "title": "[충남] 당진시 2026년 소상공인 경영환경개선 지원사업 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-26",
+        "postDate": "2026-04-30",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[충남] 당진시 2026년 소상공인 경영환경개선 지원사업 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121592",
         "source": "bizinfo"
       }
     }
