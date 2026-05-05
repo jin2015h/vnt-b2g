@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:05:14.598Z",
+  "updatedAt": "2026-05-05T22:05:26.164Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16507,6 +16507,45 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121591",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121589": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "디지털트윈",
+        "원격협업 솔루션",
+        "AI/데이터 활용"
+      ],
+      "weaknesses": [
+        "창업대회 부적합",
+        "직접 수주 불가",
+        "예산 미정",
+        "2026년 장기"
+      ],
+      "strategy": "스폰서십 제안,기술 파트너 모색,간접 참여 고려,홍보 효과 활용",
+      "summary": "창업대회 직접 수주 불가. 간접 참여 및 홍보 기대.",
+      "savedAt": 1778018726161,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121589",
+        "stage": "지원사업",
+        "title": "2026년 부산광역시 공공데이터ㆍAI 활용 창업경진대회 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-06-25",
+        "postDate": "2026-04-29",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 부산광역시 공공데이터ㆍAI 활용 창업경진대회 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121589",
         "source": "bizinfo"
       }
     }
