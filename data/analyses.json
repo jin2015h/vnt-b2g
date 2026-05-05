@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:50:17.757Z",
+  "updatedAt": "2026-05-05T21:50:31.207Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13255,6 +13255,91 @@
         "files": [],
         "contact": "권세운 041-589-8532",
         "qual": "2026-05-08 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01493574": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "드론 행사 연관성",
+        "혁신적 경험 제공"
+      ],
+      "weaknesses": [
+        "행사 운영 경험 부족",
+        "경쟁사 존재 가능성"
+      ],
+      "strategy": "AR/XR 기반 축제 제안",
+      "summary": "AR/XR로 드론축제 혁신",
+      "savedAt": 1778017819244,
+      "_bid": {
+        "id": "G2B-R26BK01493574",
+        "bidNo": "R26BK01493574",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026 코리아 드론 페스티벌 행사 위탁 용역",
+        "agency": "항공안전기술원",
+        "demandAgency": "",
+        "budget": "745,454,545원",
+        "deadline": "2026-05-12 10:00:00",
+        "openDate": "2026-05-12 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "2026 코리아 드론 페스티벌 행사 위탁 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01493574&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "하창일 032-727-5625",
+        "qual": "2026-05-11 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01502993": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "XR/AR 전문성",
+        "기술력 우수",
+        "공공기관 경험",
+        "제품군 다양"
+      ],
+      "weaknesses": [
+        "예산 규모 작음",
+        "VR 콘텐츠 특화?"
+      ],
+      "strategy": "VR 역량 및 맞춤 제안",
+      "summary": "XR 전문성 강점, VR 역량 강조",
+      "savedAt": 1778017831206,
+      "_bid": {
+        "id": "G2B-R26BK01502993",
+        "bidNo": "R26BK01502993",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "충청북도경찰청 청소년 학교폭력 예방 VR 콘텐츠 제작 용역계약(재공고)",
+        "agency": "경찰청 충청북도경찰청",
+        "demandAgency": "",
+        "budget": "47,236,364원",
+        "deadline": "2026-05-15 10:00:00",
+        "openDate": "2026-05-22 14:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-04",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "충청북도경찰청 청소년 학교폭력 예방 VR 콘텐츠 제작 용역계약(재공고)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01502993&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김다희",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
