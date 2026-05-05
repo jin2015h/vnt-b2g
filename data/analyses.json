@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:55:03.279Z",
+  "updatedAt": "2026-05-05T21:55:12.472Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12656,20 +12656,20 @@
       }
     },
     "G2B-R26BK01498013": {
-      "probability": 80,
+      "probability": 85,
       "grade": "A",
       "strengths": [
-        "디지털트윈 제품",
-        "AR/XR 기술 전문",
-        "국방 분야 적합"
+        "디지털트윈 전문",
+        "제품 직접 연관",
+        "AR/XR 기술력"
       ],
       "weaknesses": [
-        "특정 연구 방법론",
-        "경쟁사 존재"
+        "예산 규모 작음",
+        "신뢰성 시험 전문"
       ],
-      "strategy": "제품 맞춤 제안",
-      "summary": "높은 수주 가능성",
-      "savedAt": 1778017703159,
+      "strategy": "Twin 제품 강조",
+      "summary": "제품 적합성 우수",
+      "savedAt": 1778018112470,
       "_bid": {
         "id": "G2B-R26BK01498013",
         "bidNo": "R26BK01498013",
