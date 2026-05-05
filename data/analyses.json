@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:02:07.619Z",
+  "updatedAt": "2026-05-05T22:02:17.116Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15815,6 +15815,48 @@
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121582",
         "source": "bizinfo"
+      }
+    },
+    "G2B-R26BK01452442": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "스마트고글",
+        "산업용 솔루션"
+      ],
+      "weaknesses": [
+        "사업분야 불일치",
+        "이벤트 경험 부족"
+      ],
+      "strategy": "핵심 사업에 집중",
+      "summary": "VIRNECT 사업과 무관, 수주 가능성 희박.",
+      "savedAt": 1778018537114,
+      "_bid": {
+        "id": "G2B-R26BK01452442",
+        "bidNo": "R26BK01452442",
+        "bidOrd": "001",
+        "stage": "입찰공고",
+        "title": "[재공고]「2026 K-Billiards 디비전리그」 물품제작 및 방송경기장 브랜딩, Q-FESTA 운영 업체 선정",
+        "agency": "사단법인 대한당구연맹",
+        "demandAgency": "",
+        "budget": "235,000,000원",
+        "deadline": "-",
+        "openDate": "2026-04-30 18:00:00",
+        "openPlace": "서울 송파구 올림픽로 424, SK핸드볼경기장 108호",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "[재공고]「2026 K-Billiards 디비전리그」 물품제작 및 방송경기장 브랜딩, Q-FESTA 운영 업체 선정",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01452442&bidPbancOrd=001",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김보람",
+        "qual": "",
+        "source": "g2b"
       }
     }
   }
