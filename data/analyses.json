@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:59:08.129Z",
+  "updatedAt": "2026-05-05T21:59:19.120Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15209,6 +15209,48 @@
         "files": [],
         "contact": "김창중 ***********",
         "qual": "2026-05-12 15:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01485981": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "원격협업/트윈 강점",
+        "물리 AI 연관성 높음"
+      ],
+      "weaknesses": [
+        "AI 전문성 부족 우려",
+        "보안규제 경험 부족"
+      ],
+      "strategy": "AR/XR로 물리AI 구현, 원격/트윈 강조",
+      "summary": "AR/XR 기반 물리 AI 시스템 구축 가능성 높음",
+      "savedAt": 1778018359113,
+      "_bid": {
+        "id": "G2B-R26BK01485981",
+        "bidNo": "R26BK01485981",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "피지컬 AI 글로벌 보안규제 지원 시스템 개발",
+        "agency": "조달청 광주지방조달청",
+        "demandAgency": "",
+        "budget": "163,636,364원",
+        "deadline": "2026-05-14 10:00:00",
+        "openDate": "2026-05-14 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "AI",
+        "keywords": [],
+        "description": "피지컬 AI 글로벌 보안규제 지원 시스템 개발",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01485981&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김진영 070-4056-8281",
+        "qual": "2026-05-13 18:00",
         "source": "g2b"
       }
     }
