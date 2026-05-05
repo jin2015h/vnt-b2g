@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:53:03.423Z",
+  "updatedAt": "2026-05-05T21:53:10.936Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13973,6 +13973,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "임동수 042-860-9129",
+        "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01487060": {
+      "probability": 55,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 기술력",
+        "디지털트윈",
+        "로봇 연동"
+      ],
+      "weaknesses": [
+        "직접 경험 부족",
+        "주력 분야 상이"
+      ],
+      "strategy": "기술 융합 제안",
+      "summary": "간접적 기술 적용",
+      "savedAt": 1778017990934,
+      "_bid": {
+        "id": "G2B-R26BK01487060",
+        "bidNo": "R26BK01487060",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "드론소독 최적의 분사방법 검증을 위한 연구용역",
+        "agency": "가축위생방역지원본부",
+        "demandAgency": "",
+        "budget": "31,818,182원",
+        "deadline": "2026-05-08 10:00:00",
+        "openDate": "2026-05-08 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-27",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "드론소독 최적의 분사방법 검증을 위한 연구용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01487060&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "성현진 ***********",
         "qual": "2026-05-07 18:00",
         "source": "g2b"
       }
