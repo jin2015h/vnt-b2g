@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:48:05.945Z",
+  "updatedAt": "2026-05-05T21:48:16.893Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12607,6 +12607,50 @@
         "draftUrl": "",
         "files": [],
         "contact": "김정호 042-868-8128",
+        "qual": "2026-05-05 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01493301": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "디지털트윈 전문",
+        "AR/XR 기술력",
+        "연구원 발주 적합",
+        "제품 연계 가능"
+      ],
+      "weaknesses": [
+        "경쟁사 존재",
+        "철도 특화 경험",
+        "예산 규모 제한"
+      ],
+      "strategy": "Twin 강점, AR/XR 연동, 확장성 강조",
+      "summary": "핵심 기술력 일치, 수주 유력",
+      "savedAt": 1778017696891,
+      "_bid": {
+        "id": "G2B-R26BK01493301",
+        "bidNo": "R26BK01493301",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "철도역사 디지털트윈 기능 고도화 및 3차 시작품 제작",
+        "agency": "한국철도기술연구원",
+        "demandAgency": "",
+        "budget": "80,000,000원",
+        "deadline": "2026-05-06 11:00:00",
+        "openDate": "2026-05-06 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "철도역사 디지털트윈 기능 고도화 및 3차 시작품 제작",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01493301&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박주영 031-460-5449",
         "qual": "2026-05-05 18:00",
         "source": "g2b"
       }
