@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:46:53.575Z",
+  "updatedAt": "2026-05-05T21:47:03.780Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12309,6 +12309,48 @@
         "files": [],
         "contact": "고아라 02-6424-1314",
         "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01483510": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 강점",
+        "원격협업 솔루션",
+        "현장 시각화 우수"
+      ],
+      "weaknesses": [
+        "MRV 경험 부족",
+        "타사 경쟁 심화"
+      ],
+      "strategy": "디지털트윈, 원격협업으로 MRV 효율성 및 정확성 부각",
+      "summary": "VIRNECT 기술, MRV 체계 구축에 혁신적 기여 가능.",
+      "savedAt": 1778017623778,
+      "_bid": {
+        "id": "G2B-R26BK01483510",
+        "bidNo": "R26BK01483510",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "토지이용·토지이용변화 MRV체계 구축 연구(4차)",
+        "agency": "기후에너지환경부",
+        "demandAgency": "",
+        "budget": "427,272,727원",
+        "deadline": "2026-05-07 12:00:00",
+        "openDate": "2026-05-07 13:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-22",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "토지이용·토지이용변화 MRV체계 구축 연구(4차)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01483510&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박인호 044-201-6263",
+        "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
     }
