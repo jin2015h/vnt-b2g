@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:02:31.048Z",
+  "updatedAt": "2026-05-05T22:02:42.007Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15897,6 +15897,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "최수인 054-470-2653",
+        "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01483965": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "제품군 높은 적합성",
+        "원격협업 강점",
+        "교육센터 시너지"
+      ],
+      "weaknesses": [
+        "경쟁사 존재 가능성",
+        "운영 경험 부족"
+      ],
+      "strategy": "통합 솔루션 제안",
+      "summary": "AR/XR, 스마트팩토리 교육 최적화, 수주 가능성 높음.",
+      "savedAt": 1778018562004,
+      "_bid": {
+        "id": "G2B-R26BK01483965",
+        "bidNo": "R26BK01483965",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "한-인니 스마트팩토리 기업 세미나 행사 및 교육센터 운영 재공고",
+        "agency": "(사)중소기업기술혁신협회",
+        "demandAgency": "",
+        "budget": "206,500,000원",
+        "deadline": "-",
+        "openDate": "2026-04-29 16:00:00",
+        "openPlace": "이노비즈협회",
+        "postDate": "2026-04-23",
+        "contractType": "입찰",
+        "category": "스마트팩토리",
+        "keywords": [],
+        "description": "한-인니 스마트팩토리 기업 세미나 행사 및 교육센터 운영 재공고",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01483965&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박소혜 031-628-9647",
         "qual": "",
         "source": "g2b"
       }
