@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:49:53.136Z",
+  "updatedAt": "2026-05-05T21:50:06.824Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13125,6 +13125,93 @@
         "files": [],
         "contact": "김형수 055-771-4634",
         "qual": "2026-05-10 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01487180": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "핵심제품 일치",
+        "AR/XR 전문성",
+        "상장사 신뢰도",
+        "기술력 우수"
+      ],
+      "weaknesses": [
+        "경쟁 심화 우려",
+        "통합 역량 필요"
+      ],
+      "strategy": "제품 강점, 시너지 부각",
+      "summary": "핵심제품 강점, 수주 유력",
+      "savedAt": 1778017794218,
+      "_bid": {
+        "id": "G2B-R26BK01487180",
+        "bidNo": "R26BK01487180",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "디지털트윈(DX) 기반산업 기본 인프라구축 용역",
+        "agency": "경기도 포천시",
+        "demandAgency": "",
+        "budget": "227,272,727원",
+        "deadline": "2026-05-15 16:00:00",
+        "openDate": "2026-05-15 17:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-24",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "디지털트윈(DX) 기반산업 기본 인프라구축 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01487180&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장예철 031-538-2091",
+        "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01502464": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "디지털트윈 제품",
+        "코스닥 상장사",
+        "AR/XR 기술력",
+        "DevOps/MLOps 역량",
+        "공공사업 경험"
+      ],
+      "weaknesses": [
+        "해사 도메인 부족",
+        "설계 용역 경험"
+      ],
+      "strategy": "핵심 역량 및 협력 강화",
+      "summary": "버넥트 강점 많아 수주 가능성 높음",
+      "savedAt": 1778017806822,
+      "_bid": {
+        "id": "G2B-R26BK01502464",
+        "bidNo": "R26BK01502464",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "디지털트윈 기반 해사 서비스를 위한DevOps 체계 개발 및 MLOps 확장 설계 용역",
+        "agency": "조달청 대전지방조달청",
+        "demandAgency": "",
+        "budget": "145,454,545원",
+        "deadline": "2026-05-15 10:00:00",
+        "openDate": "2026-05-15 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-05-04",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "디지털트윈 기반 해사 서비스를 위한DevOps 체계 개발 및 MLOps 확장 설계 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01502464&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "차도빈 070-4056-8393",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
