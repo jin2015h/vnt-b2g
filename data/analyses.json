@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:48:57.079Z",
+  "updatedAt": "2026-05-05T21:49:07.160Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -12869,6 +12869,51 @@
         "files": [],
         "contact": "장성주 070-4056-6131",
         "qual": "2026-05-19 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01491769": {
+      "probability": 50,
+      "grade": "C",
+      "strengths": [
+        "XR 기술력 보유",
+        "공공기관 사업 경험",
+        "다양한 XR 제품군",
+        "AR/VR 융합 가능"
+      ],
+      "weaknesses": [
+        "VR 교육 경험 부족",
+        "예산 규모 작음",
+        "주력 분야와 차이",
+        "경쟁사 존재"
+      ],
+      "strategy": "XR 기술력 강조, VR 교육 적용 제안, 기능성 융합 강조, 안정적 기업 강점",
+      "summary": "XR 기술력 보유, 예산/VR 교육 전문성 부족.",
+      "savedAt": 1778017747156,
+      "_bid": {
+        "id": "G2B-R26BK01491769",
+        "bidNo": "R26BK01491769",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 가상현실기반 기능성 융합교육자료개발 위탁 용역",
+        "agency": "인천광역시교육청",
+        "demandAgency": "",
+        "budget": "45,454,545원",
+        "deadline": "2026-05-12 10:00:00",
+        "openDate": "2026-05-14 14:00:00",
+        "openPlace": "인천광역시교육청 교육재정과 입찰집행관 PC",
+        "postDate": "2026-04-28",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "2026년 가상현실기반 기능성 융합교육자료개발 위탁 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01491769&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김상헌 032-420-6580",
+        "qual": "2026-05-11 18:00",
         "source": "g2b"
       }
     }
