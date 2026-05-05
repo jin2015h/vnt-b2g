@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:55:57.788Z",
+  "updatedAt": "2026-05-05T21:56:11.228Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -13087,20 +13087,22 @@
       }
     },
     "G2B-R26BK01496116": {
-      "probability": 45,
-      "grade": "C",
+      "probability": 25,
+      "grade": "D",
       "strengths": [
-        "스마트 안전장비",
-        "AI 기술력 보유",
-        "맞춤형 솔루션"
+        "AR/XR 기술력",
+        "스마트 안전 경험",
+        "원격협업 솔루션",
+        "온디바이스 AI"
       ],
       "weaknesses": [
-        "CCTV 비전문",
-        "핵심제품 불일치"
+        "CCTV 제품 부재",
+        "직접 사업 불일치",
+        "예산 규모 작음"
       ],
-      "strategy": "통합 안전 솔루션 제안",
-      "summary": "CCTV 전문성 부족, 통합 솔루션으로 승부.",
-      "savedAt": 1778017793129,
+      "strategy": "CCTV 파트너십",
+      "summary": "CCTV 부재, 연동 제안",
+      "savedAt": 1778018171221,
       "_bid": {
         "id": "G2B-R26BK01496116",
         "bidNo": "R26BK01496116",
