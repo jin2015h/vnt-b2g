@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:00:48.941Z",
+  "updatedAt": "2026-05-05T22:00:57.605Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15590,6 +15590,44 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121596",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121590": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 전문성",
+        "디지털트윈 기술",
+        "원격협업 솔루션",
+        "혁신사업 부합"
+      ],
+      "weaknesses": [
+        "예산 미정 불확실",
+        "경쟁 심화 우려",
+        "상용화 난이도"
+      ],
+      "strategy": "핵심기술 연계 제안",
+      "summary": "사업 적합도 매우 높음",
+      "savedAt": 1778018457603,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121590",
+        "stage": "지원사업",
+        "title": "2026년 혁신 프리미어 1000 AIㆍ디지털 기술사업화 분야 통합 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-14",
+        "postDate": "2026-04-28",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 혁신 프리미어 1000 AIㆍ디지털 기술사업화 분야 통합 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121590",
         "source": "bizinfo"
       }
     }
