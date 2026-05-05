@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:55:12.472Z",
+  "updatedAt": "2026-05-05T21:55:22.475Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14437,6 +14437,48 @@
         "files": [],
         "contact": "서희현 062-610-2923",
         "qual": "2026-05-10 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01480563": {
+      "probability": 70,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 제품",
+        "AR/XR 기술 강점",
+        "복합시설 경험"
+      ],
+      "weaknesses": [
+        "BIM 전환 전문성",
+        "경쟁사 우위"
+      ],
+      "strategy": "Twin 강조, AR/XR 활용, BIM 전문성 입증",
+      "summary": "Twin 제품과 AR/XR 강점, BIM 전환 전문성 입증이 관건.",
+      "savedAt": 1778018122473,
+      "_bid": {
+        "id": "G2B-R26BK01480563",
+        "bidNo": "R26BK01480563",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "김해·제주·무안공항 BIM 전환 용역",
+        "agency": "한국공항공사",
+        "demandAgency": "",
+        "budget": "2,797,280,000원",
+        "deadline": "2026-05-19 11:00:00",
+        "openDate": "2026-05-19 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-21",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "김해·제주·무안공항 BIM 전환 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01480563&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김경원",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
