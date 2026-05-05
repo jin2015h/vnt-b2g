@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:53:45.375Z",
+  "updatedAt": "2026-05-05T21:53:58.701Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14143,6 +14143,49 @@
         "files": [],
         "contact": "강민정 055-580-2184",
         "qual": "2026-05-07 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01492845": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "원격협업 특화",
+        "디지털트윈 강점",
+        "AR 시각화 우수",
+        "감리 효율성 증대"
+      ],
+      "weaknesses": [
+        "안티드론 전문성",
+        "사업 예산 소규모"
+      ],
+      "strategy": "원격감리, DT 활용 제안",
+      "summary": "AR/XR로 감리 효율 증대",
+      "savedAt": 1778018038699,
+      "_bid": {
+        "id": "G2B-R26BK01492845",
+        "bidNo": "R26BK01492845",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "여수광양항 안티드론 및 통합관제장비 구매설치사업 책임감리용역",
+        "agency": "해양수산부 여수지방해양수산청",
+        "demandAgency": "",
+        "budget": "47,272,727원",
+        "deadline": "2026-05-07 10:00:00",
+        "openDate": "2026-05-07 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-29",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "여수광양항 안티드론 및 통합관제장비 구매설치사업 책임감리용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01492845&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박혜진 061-650-6015",
+        "qual": "2026-05-06 18:00",
         "source": "g2b"
       }
     }
