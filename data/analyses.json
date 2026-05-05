@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T22:02:51.242Z",
+  "updatedAt": "2026-05-05T22:02:59.911Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -15982,6 +15982,48 @@
         "files": [],
         "contact": "박소혜 031-628-9647",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01485538": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "XR 기술력 보유",
+        "혁신 기술 접목",
+        "디지털 트윈 경험"
+      ],
+      "weaknesses": [
+        "운전 시뮬 비전문",
+        "핵심 사업 불일치"
+      ],
+      "strategy": "XR 시뮬 제안",
+      "summary": "핵심 역량 불일치",
+      "savedAt": 1778018579902,
+      "_bid": {
+        "id": "G2B-R26BK01485538",
+        "bidNo": "R26BK01485538",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "우즈베키스탄 시뮬레이션 기반 훈련시설 구축을 통한 경찰역량 강화사업 운전시뮬레이터 개발 및 공급 정보화 감리 용역",
+        "agency": "한국국제협력단",
+        "demandAgency": "",
+        "budget": "105,762,399원",
+        "deadline": "2026-06-05 14:00:00",
+        "openDate": "2026-06-05 15:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-04-24",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "우즈베키스탄 시뮬레이션 기반 훈련시설 구축을 통한 경찰역량 강화사업 운전시뮬레이터 개발 및 공급 정보화 감리 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01485538&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김민정 031-740-0354",
+        "qual": "2026-06-04 18:00",
         "source": "g2b"
       }
     }
