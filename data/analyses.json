@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:54:11.643Z",
+  "updatedAt": "2026-05-05T21:54:21.386Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14224,6 +14224,47 @@
         "description": "고병원성 AI 대응을 위한 야생조류 AI 검사 위탁(`26-`27)",
         "requirements": [],
         "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01499502&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "정조은 070-4056-6130",
+        "qual": "2026-05-12 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01500802": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "혁신 기술 보유",
+        "원격 협업 가능"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "전문성 부족"
+      ],
+      "strategy": "입찰 참여 부적합",
+      "summary": "사업 분야 불일치로 수주 어려움.",
+      "savedAt": 1778018061383,
+      "_bid": {
+        "id": "G2B-R26BK01500802",
+        "bidNo": "R26BK01500802",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "고병원성 AI 대응을 위한 야생조류 AI 검사 위탁(`26-`27)",
+        "agency": "조달청",
+        "demandAgency": "",
+        "budget": "454,545,455원",
+        "deadline": "2026-05-13 10:00:00",
+        "openDate": "2026-05-13 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-04-30",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "고병원성 AI 대응을 위한 야생조류 AI 검사 위탁(`26-`27)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01500802&bidPbancOrd=000",
         "specUrl": "",
         "draftUrl": "",
         "files": [],
