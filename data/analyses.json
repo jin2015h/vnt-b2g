@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:54:21.386Z",
+  "updatedAt": "2026-05-05T21:54:29.559Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -14271,6 +14271,45 @@
         "contact": "정조은 070-4056-6130",
         "qual": "2026-05-12 18:00",
         "source": "g2b"
+      }
+    },
+    "BIZ-PBLN_000000000121586": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "기술 적합성 우수",
+        "제품 포트폴리오",
+        "코스닥 상장사",
+        "혁신특구 연관성"
+      ],
+      "weaknesses": [
+        "예산 미정",
+        "발주처 불확실",
+        "사업 범위 모호",
+        "경쟁 심화 가능"
+      ],
+      "strategy": "선제적 제안 및 협력",
+      "summary": "기술 적합성 높으나, 정보 부족으로 전략적 접근 필요.",
+      "savedAt": 1778018069551,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121586",
+        "stage": "지원사업",
+        "title": "2026년 글로벌 혁신특구 육성(비R&D) 시행계획 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-07",
+        "postDate": "2026-05-01",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 글로벌 혁신특구 육성(비R&D) 시행계획 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121586",
+        "source": "bizinfo"
       }
     }
   }
