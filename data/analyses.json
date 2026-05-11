@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:47:38.419Z",
+  "updatedAt": "2026-05-11T21:47:55.956Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19307,6 +19307,44 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121852",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121850": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력",
+        "SaaS 제품 보유",
+        "클라우드 연관성",
+        "혁신 기술 기업"
+      ],
+      "weaknesses": [
+        "직접 연관성 부족",
+        "예산 미정 불확실",
+        "경쟁 심화 예상"
+      ],
+      "strategy": "AR/XR SaaS 강조, 클라우드 활용 계획, 기술 혁신성 부각",
+      "summary": "AR/XR SaaS 전환 적합. 기술력 강점. 경쟁 심화.",
+      "savedAt": 1778536075942,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121850",
+        "stage": "지원사업",
+        "title": "[부산] 2026년 클라우드 SaaS 개발ㆍ전환 지원사업 참여기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-28",
+        "postDate": "2026-05-08",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[부산] 2026년 클라우드 SaaS 개발ㆍ전환 지원사업 참여기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121850",
         "source": "bizinfo"
       }
     }
