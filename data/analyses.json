@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:37:18.639Z",
+  "updatedAt": "2026-05-11T21:37:29.277Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16964,6 +16964,51 @@
         "files": [],
         "contact": "김정호 042-868-8128",
         "qual": "2026-05-12 16:59",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01510890": {
+      "probability": 45,
+      "grade": "C",
+      "strengths": [
+        "디지털트윈 강점",
+        "혁신 기술 보유",
+        "AR/XR 시각화",
+        "AI 연관성"
+      ],
+      "weaknesses": [
+        "기획 용역 경험 부족",
+        "주력사업 불일치",
+        "직접 AI 역량 부족",
+        "예산 규모 작음"
+      ],
+      "strategy": "디지털트윈 활용 제안, 도시계획사와 협력",
+      "summary": "디지털트윈 강점, 기획 용역 경험 부족.",
+      "savedAt": 1778535449267,
+      "_bid": {
+        "id": "G2B-R26BK01510890",
+        "bidNo": "R26BK01510890",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "피지컬AI-J밸리 조성을 위한 기본구상 및 도시계획시설 결정 용역 입찰공고(협상에의한계약)(긴급)",
+        "agency": "전북특별자치도 전주시",
+        "demandAgency": "",
+        "budget": "100,000,000원",
+        "deadline": "2026-05-19 17:00:00",
+        "openDate": "2026-05-19 18:00:00",
+        "openPlace": "전주시 회계과 입찰집행관PC",
+        "postDate": "2026-05-08",
+        "contractType": "입찰",
+        "category": "AI",
+        "keywords": [],
+        "description": "피지컬AI-J밸리 조성을 위한 기본구상 및 도시계획시설 결정 용역 입찰공고(협상에의한계약)(긴급)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01510890&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "노주희",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
