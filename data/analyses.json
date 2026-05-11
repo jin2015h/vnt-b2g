@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:46:59.256Z",
+  "updatedAt": "2026-05-11T21:47:17.603Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19183,6 +19183,50 @@
         "files": [],
         "contact": "공병채 042-868-3755",
         "qual": "2026-06-16 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01503473": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력",
+        "원격협업 솔루션",
+        "디지털트윈 연계",
+        "KAIST 시너지"
+      ],
+      "weaknesses": [
+        "예산 규모 제한",
+        "경쟁 심화 우려",
+        "사업 범위 모호"
+      ],
+      "strategy": "핵심 기술 강조, KAIST 맞춤 제안, 예산 효율성 부각, 성공 사례 제시",
+      "summary": "VIRNECT 기술, KAIST 로봇 밸리 운영에 적합. 수주 유력.",
+      "savedAt": 1778536037598,
+      "_bid": {
+        "id": "G2B-R26BK01503473",
+        "bidNo": "R26BK01503473",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년도 KAIST 로봇 스케일업 밸리 기술혁신 네트워크 운영 용역",
+        "agency": "한국과학기술원",
+        "demandAgency": "",
+        "budget": "40,000,000원",
+        "deadline": "-",
+        "openDate": "2026-05-19 14:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-05",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년도 KAIST 로봇 스케일업 밸리 기술혁신 네트워크 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01503473&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이한권 042-350-2333",
+        "qual": "",
         "source": "g2b"
       }
     }
