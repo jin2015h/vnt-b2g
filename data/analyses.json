@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:45:35.183Z",
+  "updatedAt": "2026-05-11T21:45:46.983Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18823,6 +18823,42 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121848",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121847": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "혁신 AR/XR 기술",
+        "글로벌 수출 잠재",
+        "코스닥 상장 기업"
+      ],
+      "weaknesses": [
+        "지원 내용 불일치",
+        "기업 규모 고려"
+      ],
+      "strategy": "수출 목표 명확화, 기술 경쟁력 강조, 지원 활용 계획",
+      "summary": "AR/XR 수출 유망, 지원 적합",
+      "savedAt": 1778535946980,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121847",
+        "stage": "지원사업",
+        "title": "[경북] 김천시 2026년 중소기업 수출 스케일업 지원사업 수출 매뉴얼 지원사업 참여기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-22",
+        "postDate": "2026-05-08",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경북] 김천시 2026년 중소기업 수출 스케일업 지원사업 수출 매뉴얼 지원사업 참여기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121847",
         "source": "bizinfo"
       }
     }
