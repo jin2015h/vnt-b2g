@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:40:00.112Z",
+  "updatedAt": "2026-05-11T21:40:09.432Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17653,6 +17653,49 @@
         "files": [],
         "contact": "김한슬 7601169",
         "qual": "2026-05-14 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01503015": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "로봇산업 기술 이해",
+        "AR/XR 기술력",
+        "산업용 솔루션 경험"
+      ],
+      "weaknesses": [
+        "정책/규제 분석 미흡",
+        "협의체 운영 경험 부족",
+        "주력 사업과 불일치"
+      ],
+      "strategy": "컨소시엄 참여",
+      "summary": "기술 강점, 정책/운영 경험 부족으로 수주 어려움.",
+      "savedAt": 1778535609429,
+      "_bid": {
+        "id": "G2B-R26BK01503015",
+        "bidNo": "R26BK01503015",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "로봇산업 규제혁신 과제 발굴을 위한 2026 민관협의체 운영 용역",
+        "agency": "조달청 대구지방조달청",
+        "demandAgency": "",
+        "budget": "141,353,106원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "로봇산업 규제혁신 과제 발굴을 위한 2026 민관협의체 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01503015&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박다윤 070-4056-7967",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
