@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:47:17.603Z",
+  "updatedAt": "2026-05-11T21:47:28.637Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19226,6 +19226,49 @@
         "draftUrl": "",
         "files": [],
         "contact": "이한권 042-350-2333",
+        "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01504551": {
+      "probability": 35,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "원격협업 솔루션",
+        "교육 활용 가능성"
+      ],
+      "weaknesses": [
+        "로봇사업 불일치",
+        "캠프운영 경험 부족",
+        "경쟁사 전문성"
+      ],
+      "strategy": "AR/XR 교육 접목",
+      "summary": "AR/XR 접목 가능하나, 로봇 교육 전문성 보완 필요.",
+      "savedAt": 1778536048630,
+      "_bid": {
+        "id": "G2B-R26BK01504551",
+        "bidNo": "R26BK01504551",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "영진전문대학교 혁신융합대학사업(지능형로봇) 1학기 진로캠프 위탁운영",
+        "agency": "영진전문대학교 산학협력단",
+        "demandAgency": "",
+        "budget": "39,090,909원",
+        "deadline": "-",
+        "openDate": "2026-05-21 18:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "영진전문대학교 혁신융합대학사업(지능형로봇) 1학기 진로캠프 위탁운영",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01504551&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김경두 053-940-5147",
         "qual": "",
         "source": "g2b"
       }
