@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:40:09.432Z",
+  "updatedAt": "2026-05-11T21:40:20.222Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17695,6 +17695,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "박다윤 070-4056-7967",
+        "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01507200": {
+      "probability": 60,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술력",
+        "디지털트윈",
+        "원격협업"
+      ],
+      "weaknesses": [
+        "드론제작 경험",
+        "로봇HW 전문성"
+      ],
+      "strategy": "AR/XR 솔루션 강조 및 협력사 모색",
+      "summary": "AR/XR 기술로 드론 지능화 및 협력 제작",
+      "savedAt": 1778535620219,
+      "_bid": {
+        "id": "G2B-R26BK01507200",
+        "bidNo": "R26BK01507200",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "화재현장 실내수색용 드론 시제기 제작 및 성능시험 지원",
+        "agency": "한국항공우주연구원",
+        "demandAgency": "",
+        "budget": "187,090,909원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "화재현장 실내수색용 드론 시제기 제작 및 성능시험 지원",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01507200&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박균제 042-860-2659",
         "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
