@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:38:37.269Z",
+  "updatedAt": "2026-05-11T21:38:46.090Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16799,20 +16799,20 @@
       }
     },
     "G2B-R26BK01504067": {
-      "probability": 90,
+      "probability": 85,
       "grade": "A",
       "strengths": [
         "XR/AR 전문기업",
         "코스닥 상장사",
-        "제품군 일치"
+        "다양한 XR 제품"
       ],
       "weaknesses": [
-        "경쟁 심화 가능성",
-        "운영 경험 부족"
+        "행사 운영 전문성",
+        "경쟁 심화"
       ],
-      "strategy": "XR 기술력 및 운영 역량 강조",
-      "summary": "XR 테마관 운영에 최적화된 기업",
-      "savedAt": 1778535419242,
+      "strategy": "기술력 강조",
+      "summary": "VIRNECT, XR 전문성으로 수주 유력.",
+      "savedAt": 1778535526086,
       "_bid": {
         "id": "G2B-R26BK01504067",
         "bidNo": "R26BK01504067",
