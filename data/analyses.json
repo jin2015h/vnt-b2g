@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:48:52.416Z",
+  "updatedAt": "2026-05-11T21:49:02.704Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19531,6 +19531,46 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121838",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121836": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 전문성",
+        "스마트고글 VisionX",
+        "원격협업 Remote",
+        "디지털트윈 Twin",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "직접 로봇사업 아님",
+        "예산/발주처 미정",
+        "경쟁 심화 가능성",
+        "AR/XR 도입 설득"
+      ],
+      "strategy": "로봇 운영 효율화에 AR/XR 솔루션 연계 제안",
+      "summary": "로봇 도입/운영 효율 극대화에 AR/XR 솔루션 기여 가능성 높음.",
+      "savedAt": 1778536142699,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121836",
+        "stage": "지원사업",
+        "title": "[인천] 2026년 로봇산업 혁신성장 지원사업 중소ㆍ중견기업 로봇도입 지원사업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-06-05",
+        "postDate": "2026-05-08",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[인천] 2026년 로봇산업 혁신성장 지원사업 중소ㆍ중견기업 로봇도입 지원사업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121836",
         "source": "bizinfo"
       }
     }
