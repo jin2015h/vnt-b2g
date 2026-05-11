@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:40:54.011Z",
+  "updatedAt": "2026-05-11T21:41:02.962Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17868,6 +17868,49 @@
         "files": [],
         "contact": "최소이 064-710-6599",
         "qual": "2026-05-12 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01508665": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술 전문성",
+        "디지털트윈 활용",
+        "원격협업 솔루션",
+        "설계 컨설팅 적합"
+      ],
+      "weaknesses": [
+        "안티드론 직접경험 부족",
+        "경쟁사 대비 차별화"
+      ],
+      "strategy": "AR/XR, DT로 설계 최적화 및 운영 효율성 강조. 협력사 연계 고려.",
+      "summary": "AR/XR, DT로 안티드론 설계 컨설팅에 기여 가능성 높음.",
+      "savedAt": 1778535662959,
+      "_bid": {
+        "id": "G2B-R26BK01508665",
+        "bidNo": "R26BK01508665",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "동해항 안티드론시스템 구축 설계 컨설팅 용역",
+        "agency": "해양수산부 동해지방해양수산청",
+        "demandAgency": "",
+        "budget": "128,549,636원",
+        "deadline": "2026-05-20 10:00:00",
+        "openDate": "2026-05-20 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "동해항 안티드론시스템 구축 설계 컨설팅 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01508665&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "정겨운 033-520-6131",
+        "qual": "2026-05-19 18:00",
         "source": "g2b"
       }
     }
