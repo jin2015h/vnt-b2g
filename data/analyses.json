@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:43:34.172Z",
+  "updatedAt": "2026-05-11T21:43:44.288Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18497,6 +18497,42 @@
         "contact": "백제환 063-713-1623",
         "qual": "2026-05-18 18:00",
         "source": "g2b"
+      }
+    },
+    "BIZ-PBLN_000000000121837": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술 선도",
+        "산업용 솔루션",
+        "원격협업 전문성"
+      ],
+      "weaknesses": [
+        "사업분야 불일치",
+        "소상공인 대상 아님"
+      ],
+      "strategy": "핵심 역량 집중",
+      "summary": "사업분야 불일치로 수주 가능성 매우 낮음",
+      "savedAt": 1778535824276,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121837",
+        "stage": "지원사업",
+        "title": "[충남] 2026년 2차 경영위기 소상공인 재기 지원사업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-18",
+        "postDate": "2026-05-08",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[충남] 2026년 2차 경영위기 소상공인 재기 지원사업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121837",
+        "source": "bizinfo"
       }
     }
   }
