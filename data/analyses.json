@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:43:10.293Z",
+  "updatedAt": "2026-05-11T21:43:18.238Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18410,6 +18410,50 @@
         "files": [],
         "contact": "류주리 053-210-9964",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01507583": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 기술력",
+        "로봇 안전 연관",
+        "스마트시티 적합",
+        "제품 포트폴리오"
+      ],
+      "weaknesses": [
+        "경쟁사 존재",
+        "예산 규모 보통",
+        "장기 프로젝트"
+      ],
+      "strategy": "로봇 안전 특화",
+      "summary": "AR/XR 로봇 안전관리 최적",
+      "savedAt": 1778535798235,
+      "_bid": {
+        "id": "G2B-R26BK01507583",
+        "bidNo": "R26BK01507583",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 주안부평 통합관제센터 구축사업 로봇 안전관리 실증",
+        "agency": "인천스마트시티 주식회사",
+        "demandAgency": "",
+        "budget": "90,000,000원",
+        "deadline": "2026-05-18 15:00:00",
+        "openDate": "2026-05-18 16:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 주안부평 통합관제센터 구축사업 로봇 안전관리 실증",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01507583&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "서정훈 032-458-5741",
+        "qual": "2026-05-17 18:00",
         "source": "g2b"
       }
     }
