@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:43:53.377Z",
+  "updatedAt": "2026-05-11T21:44:05.608Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18533,6 +18533,48 @@
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121837",
         "source": "bizinfo"
+      }
+    },
+    "G2B-R26BK01509361": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "데이터 시각화",
+        "원격 지원 가능"
+      ],
+      "weaknesses": [
+        "분석 전문성 부족",
+        "사업 범위 불일치"
+      ],
+      "strategy": "전문기관과 협력",
+      "summary": "핵심 역량 불일치",
+      "savedAt": 1778535845600,
+      "_bid": {
+        "id": "G2B-R26BK01509361",
+        "bidNo": "R26BK01509361",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 팔만대장경 P-XRF 분석 및 데이터 해석 용역",
+        "agency": "사단법인 대한불교조계종 해인사 장경도감",
+        "demandAgency": "",
+        "budget": "22,045,455원",
+        "deadline": "2026-06-17 17:00:00",
+        "openDate": "2026-06-17 18:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 팔만대장경 P-XRF 분석 및 데이터 해석 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01509361&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최성욱 055-934-3095",
+        "qual": "2026-06-16 18:00",
+        "source": "g2b"
       }
     }
   }
