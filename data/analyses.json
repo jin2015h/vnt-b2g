@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:44:27.645Z",
+  "updatedAt": "2026-05-11T21:44:42.458Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18619,6 +18619,48 @@
         "files": [],
         "contact": "최성욱 055-934-3095",
         "qual": "2026-06-16 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01505176": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "혁신 AR/XR 기술",
+        "원격 협업 솔루션",
+        "정부기관 협력 경험"
+      ],
+      "weaknesses": [
+        "행사 대행 경험無",
+        "사업 분야 불일치"
+      ],
+      "strategy": "행사 대행사 협력",
+      "summary": "핵심 사업과 불일치",
+      "savedAt": 1778535882454,
+      "_bid": {
+        "id": "G2B-R26BK01505176",
+        "bidNo": "R26BK01505176",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 Global Research Council 아태 지역회의 대행",
+        "agency": "한국연구재단",
+        "demandAgency": "",
+        "budget": "180,782,727원",
+        "deadline": "2026-05-22 11:00:00",
+        "openDate": "2026-05-22 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026년 Global Research Council 아태 지역회의 대행",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01505176&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장범진 042-869-6232",
+        "qual": "2026-05-21 18:00",
         "source": "g2b"
       }
     }
