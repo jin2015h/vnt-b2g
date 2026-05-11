@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:36:58.616Z",
+  "updatedAt": "2026-05-11T21:37:09.507Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16795,6 +16795,91 @@
         "files": [],
         "contact": "한범수 070-4056-7783",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01504067": {
+      "probability": 90,
+      "grade": "A",
+      "strengths": [
+        "XR/AR 전문기업",
+        "코스닥 상장사",
+        "제품군 일치"
+      ],
+      "weaknesses": [
+        "경쟁 심화 가능성",
+        "운영 경험 부족"
+      ],
+      "strategy": "XR 기술력 및 운영 역량 강조",
+      "summary": "XR 테마관 운영에 최적화된 기업",
+      "savedAt": 1778535419242,
+      "_bid": {
+        "id": "G2B-R26BK01504067",
+        "bidNo": "R26BK01504067",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "서울 XR 테마관 행사 운영",
+        "agency": "(재)서울경제진흥원",
+        "demandAgency": "",
+        "budget": "154,545,455원",
+        "deadline": "2026-05-27 10:00:00",
+        "openDate": "2026-05-27 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "서울 XR 테마관 행사 운영",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01504067&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김응례 02-2222-3877",
+        "qual": "2026-05-26 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01514536": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 적합",
+        "원격협업 강점",
+        "스마트고글 활용",
+        "혁신적 접근"
+      ],
+      "weaknesses": [
+        "보안평가 전문성",
+        "경쟁사 대비"
+      ],
+      "strategy": "디지털트윈 시뮬",
+      "summary": "SMR 보안가이드 VIRNECT 기여",
+      "savedAt": 1778535429505,
+      "_bid": {
+        "id": "G2B-R26BK01514536",
+        "bidNo": "R26BK01514536",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "경수형 SMR 활용을 위한 물리적보안 평가가이드 예비 연구",
+        "agency": "한국원자력통제기술원",
+        "demandAgency": "",
+        "budget": "63,450,343원",
+        "deadline": "2026-05-12 16:00:00",
+        "openDate": "2026-05-12 17:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "경수형 SMR 활용을 위한 물리적보안 평가가이드 예비 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01514536&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "장희원 042-860-9719",
+        "qual": "2026-05-12 15:00",
         "source": "g2b"
       }
     }
