@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:47:28.637Z",
+  "updatedAt": "2026-05-11T21:47:38.419Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19271,6 +19271,43 @@
         "contact": "김경두 053-940-5147",
         "qual": "",
         "source": "g2b"
+      }
+    },
+    "BIZ-PBLN_000000000121852": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "코스닥 상장기업",
+        "혁신 기술 보유"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "프로젝트 성격 상이",
+        "수주 대상 아님"
+      ],
+      "strategy": "사업 분야 재검토",
+      "summary": "AR/XR 기술과 무관, 수주 가능성 매우 낮음.",
+      "savedAt": 1778536058415,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121852",
+        "stage": "지원사업",
+        "title": "[인천] 2026년 지역상품 공공 조달정보 지원사업 인천지역기업 신용평가 지원사업 참여기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "-",
+        "postDate": "2026-05-11",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[인천] 2026년 지역상품 공공 조달정보 지원사업 인천지역기업 신용평가 지원사업 참여기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121852",
+        "source": "bizinfo"
       }
     }
   }
