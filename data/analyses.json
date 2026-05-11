@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:37:14.036Z",
+  "updatedAt": "2026-05-11T21:37:18.639Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16922,6 +16922,48 @@
         "files": [],
         "contact": "김예지 053-580-6159",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01515718": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 가능성",
+        "원격협업 솔루션",
+        "혁신기술 적용"
+      ],
+      "weaknesses": [
+        "핵심기술 불일치",
+        "원자력 전문성 부족"
+      ],
+      "strategy": "기술적용 방안 제시",
+      "summary": "핵심기술 불일치 예상",
+      "savedAt": 1778535438628,
+      "_bid": {
+        "id": "G2B-R26BK01515718",
+        "bidNo": "R26BK01515718",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "LEU+/ATF 장전 고연소도 SMR 노심 EPZ 평가 모델 고도화",
+        "agency": "한국원자력연구원",
+        "demandAgency": "",
+        "budget": "50,000,000원",
+        "deadline": "2026-05-12 17:00:00",
+        "openDate": "2026-05-12 18:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "LEU+/ATF 장전 고연소도 SMR 노심 EPZ 평가 모델 고도화",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01515718&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김정호 042-868-8128",
+        "qual": "2026-05-12 16:59",
         "source": "g2b"
       }
     }
