@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:41:46.926Z",
+  "updatedAt": "2026-05-11T21:41:56.820Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18067,6 +18067,48 @@
         "files": [],
         "contact": "김동욱 055-380-9026",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01506631": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술 적합",
+        "생기원 R&D 수요",
+        "원격/트윈 솔루션"
+      ],
+      "weaknesses": [
+        "사업 범위 모호",
+        "경쟁사 존재 가능"
+      ],
+      "strategy": "AR/XR 효율성 강조. 원격/트윈 솔루션 제안.",
+      "summary": "AR/XR 기술 적합. 수주 가능성 높음.",
+      "savedAt": 1778535716816,
+      "_bid": {
+        "id": "G2B-R26BK01506631",
+        "bidNo": "R26BK01506631",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "글로벌 실증 도구에 대한 Tear Down 기획 및 수행",
+        "agency": "한국생산기술연구원",
+        "demandAgency": "",
+        "budget": "38,181,818원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "우리 원 구매자산실 입찰집행관 PC",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "글로벌 실증 도구에 대한 Tear Down 기획 및 수행",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01506631&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "권세운 041-589-8532",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
