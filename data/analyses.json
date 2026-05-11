@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:37:47.779Z",
+  "updatedAt": "2026-05-11T21:37:59.082Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17135,6 +17135,49 @@
         "draftUrl": "",
         "files": [],
         "contact": "최휘련 070-8028-7030",
+        "qual": "2026-05-17 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01505178": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "기술 기반 기업",
+        "코스닥 상장사",
+        "정부 사업 이해"
+      ],
+      "weaknesses": [
+        "핵심 사업 불일치",
+        "데이터 조사 경험 부족",
+        "AR/XR 전문성"
+      ],
+      "strategy": "사업 참여 재고",
+      "summary": "핵심 사업과 무관, 수주 가능성 낮음",
+      "savedAt": 1778535479079,
+      "_bid": {
+        "id": "G2B-R26BK01505178",
+        "bidNo": "R26BK01505178",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "K-STAR 비자트랙 유학생 페널데이터 조사",
+        "agency": "법무부",
+        "demandAgency": "",
+        "budget": "31,818,182원",
+        "deadline": "2026-05-18 10:00:00",
+        "openDate": "2026-05-18 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "K-STAR 비자트랙 유학생 페널데이터 조사",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01505178&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이화",
         "qual": "2026-05-17 18:00",
         "source": "g2b"
       }
