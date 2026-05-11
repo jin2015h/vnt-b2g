@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:48:35.505Z",
+  "updatedAt": "2026-05-11T21:48:43.516Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19457,6 +19457,43 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121841",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121840": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "혁신 AR/XR 기술",
+        "글로벌 시장 잠재력",
+        "코스닥 상장 기업",
+        "해외세일즈 목표 일치"
+      ],
+      "weaknesses": [
+        "경쟁 심화 가능성",
+        "경북 지역 조건 확인"
+      ],
+      "strategy": "기술 혁신, 해외 시장 확장 잠재력 강조, 프로그램 목표 부합 어필.",
+      "summary": "혁신 AR/XR 중기, 해외 세일즈 지원에 최적.",
+      "savedAt": 1778536123512,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121840",
+        "stage": "지원사업",
+        "title": "[경북] 2026년 중소기업 해외세일즈 개별 출장 지원 참가 업체 모집 변경 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "-",
+        "postDate": "2026-05-11",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경북] 2026년 중소기업 해외세일즈 개별 출장 지원 참가 업체 모집 변경 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121840",
         "source": "bizinfo"
       }
     }
