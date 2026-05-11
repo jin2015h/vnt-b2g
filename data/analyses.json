@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:36:42.278Z",
+  "updatedAt": "2026-05-11T21:36:49.271Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16710,6 +16710,49 @@
         "files": [],
         "contact": "류문선 031-910-0481",
         "qual": "2026-05-12 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01504981": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "혁신 제품 보유",
+        "원격 협업 솔루션"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "MRO 경험 부족",
+        "핵심 역량과 무관"
+      ],
+      "strategy": "핵심 사업 집중",
+      "summary": "핵심 역량과 무관한 입찰",
+      "savedAt": 1778535409269,
+      "_bid": {
+        "id": "G2B-R26BK01504981",
+        "bidNo": "R26BK01504981",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "가스안전연구원 소모성물품(MRO) 구매대행 용역",
+        "agency": "한국가스안전공사 가스안전연구원",
+        "demandAgency": "",
+        "budget": "273,997,727원",
+        "deadline": "2026-05-18 10:00:00",
+        "openDate": "2026-05-18 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "가스안전연구원 소모성물품(MRO) 구매대행 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01504981&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "손지수 043-750-1412",
+        "qual": "2026-05-17 18:00",
         "source": "g2b"
       }
     }
