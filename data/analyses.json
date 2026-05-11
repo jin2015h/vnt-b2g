@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:38:08.464Z",
+  "updatedAt": "2026-05-11T21:38:16.327Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17267,6 +17267,51 @@
         "files": [],
         "contact": "정수경 031-910-0781",
         "qual": "2026-05-15 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01515771": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "디지털 트윈",
+        "원격 협업 솔루션",
+        "혁신 기술 보유"
+      ],
+      "weaknesses": [
+        "핵심 기술 불일치",
+        "원자력 전문성 부족",
+        "FEM 방법론 미경험",
+        "사업 분야 상이"
+      ],
+      "strategy": "핵심 역량 집중",
+      "summary": "핵심 기술 불일치",
+      "savedAt": 1778535496323,
+      "_bid": {
+        "id": "G2B-R26BK01515771",
+        "bidNo": "R26BK01515771",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "SFR 노심 해석을 위한 FEM 기반 VARIANT 방법론 개발",
+        "agency": "한국원자력연구원",
+        "demandAgency": "",
+        "budget": "90,909,091원",
+        "deadline": "2026-05-19 11:00:00",
+        "openDate": "2026-05-25 10:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "SFR 노심 해석을 위한 FEM 기반 VARIANT 방법론 개발",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01515771&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김정호 042-868-8128",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
