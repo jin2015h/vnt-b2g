@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:42:06.547Z",
+  "updatedAt": "2026-05-11T21:42:16.672Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18151,6 +18151,50 @@
         "files": [],
         "contact": "김달샘 033-250-7547",
         "qual": "2026-05-17 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01512928": {
+      "probability": 85,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 기술 적합",
+        "혁신적 행사 경험",
+        "다양한 제품 연동",
+        "높은 예산 활용"
+      ],
+      "weaknesses": [
+        "행사 운영 경험",
+        "경쟁사 존재",
+        "초기 비용 부담"
+      ],
+      "strategy": "맞춤형 솔루션 제안,성공 사례 강조,ROI 및 가치 설명,쉬운 사용성 강조",
+      "summary": "AR/XR로 엑스포 혁신, 수주 유력",
+      "savedAt": 1778535736669,
+      "_bid": {
+        "id": "G2B-R26BK01512928",
+        "bidNo": "R26BK01512928",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026 항공산업 커리어 엑스포(CAREER EXPO) 행사 용역",
+        "agency": "한국항공협회",
+        "demandAgency": "",
+        "budget": "454,545,455원",
+        "deadline": "-",
+        "openDate": "2026-05-20 12:00:00",
+        "openPlace": "항공일자리센터(인천공항 제1여객터미널 4층 F 카운터 인근)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "2026 항공산업 커리어 엑스포(CAREER EXPO) 행사 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01512928&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "방은설 02-2669-8712",
+        "qual": "",
         "source": "g2b"
       }
     }
