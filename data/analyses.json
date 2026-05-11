@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:42:47.538Z",
+  "updatedAt": "2026-05-11T21:42:57.869Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18324,6 +18324,50 @@
         "files": [],
         "contact": "김형수 055-771-4634",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01504563": {
+      "probability": 40,
+      "grade": "C",
+      "strengths": [
+        "AR/XR 기술력",
+        "교육 혁신 가능",
+        "디지털 트윈",
+        "원격 협업 솔루션"
+      ],
+      "weaknesses": [
+        "장비 제작 경험 부족",
+        "직접 연관성 낮음",
+        "경쟁사 우위"
+      ],
+      "strategy": "AR/XR 융합 제안,디지털 트윈 활용,원격 지원 강조,교육 효과 증대",
+      "summary": "AR/XR 교육 혁신 가능. 장비 제작 경험 부족.",
+      "savedAt": 1778535777866,
+      "_bid": {
+        "id": "G2B-R26BK01504563",
+        "bidNo": "R26BK01504563",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[1-1-2-1-3][미래차로봇] 자동차 구조 교육장비 제작 및 설치 용역",
+        "agency": "경상국립대학교",
+        "demandAgency": "",
+        "budget": "90,909,090원",
+        "deadline": "2026-05-18 10:00:00",
+        "openDate": "2026-05-18 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "[1-1-2-1-3][미래차로봇] 자동차 구조 교육장비 제작 및 설치 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01504563&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김성은 055-772-4477",
+        "qual": "2026-05-15 18:00",
         "source": "g2b"
       }
     }
