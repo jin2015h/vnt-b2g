@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:39:06.837Z",
+  "updatedAt": "2026-05-11T21:39:15.756Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17527,6 +17527,49 @@
         "files": [],
         "contact": "박창섭 033-769-9399",
         "qual": "2026-05-13 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01497052": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "코스닥 상장사",
+        "첨단 기술 보유",
+        "엔터프라이즈 경험"
+      ],
+      "weaknesses": [
+        "사업 분야 불일치",
+        "제품군 무관함",
+        "평가 시스템 경험 無"
+      ],
+      "strategy": "입찰 불참 권고",
+      "summary": "핵심 사업과 무관, 수주 불가",
+      "savedAt": 1778535555749,
+      "_bid": {
+        "id": "G2B-R26BK01497052",
+        "bidNo": "R26BK01497052",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "광운대학교 2027학년도 신입학 수시모집 논술채점시스템 및 편입학전형 필답고사 OMR 평가시스템 임대업체 선정",
+        "agency": "광운대학교",
+        "demandAgency": "",
+        "budget": "59,000,000원",
+        "deadline": "2026-05-21 10:00:00",
+        "openDate": "2026-05-21 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "광운대학교 2027학년도 신입학 수시모집 논술채점시스템 및 편입학전형 필답고사 OMR 평가시스템 임대업체 선정",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01497052&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "홍의진 02-940-5046",
+        "qual": "2026-05-20 18:00",
         "source": "g2b"
       }
     }
