@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:45:58.064Z",
+  "updatedAt": "2026-05-11T21:46:03.739Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18896,6 +18896,39 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121845",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121844": {
+      "probability": 0,
+      "grade": "D",
+      "strengths": [],
+      "weaknesses": [
+        "제품 사업영역 불일치",
+        "B2B 솔루션 기업",
+        "TV홈쇼핑과 무관"
+      ],
+      "strategy": "참여 불필요",
+      "summary": "사업영역 불일치로 수주 불가",
+      "savedAt": 1778535963727,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121844",
+        "stage": "지원사업",
+        "title": "[경북] 2026년 경북세일페스타 TV홈쇼핑 신규입점 및 판매 참여기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-22",
+        "postDate": "2026-05-08",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경북] 2026년 경북세일페스타 TV홈쇼핑 신규입점 및 판매 참여기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121844",
         "source": "bizinfo"
       }
     }
