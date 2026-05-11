@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:39:40.708Z",
+  "updatedAt": "2026-05-11T21:39:51.144Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17013,20 +17013,20 @@
       }
     },
     "G2B-R26BK01512365": {
-      "probability": 75,
-      "grade": "B",
+      "probability": 85,
+      "grade": "A",
       "strengths": [
-        "Twin 솔루션 적합",
+        "Twin 제품 적합성",
         "산업/공공 경험",
-        "AX 전환 전문성"
+        "종합 솔루션 보유"
       ],
       "weaknesses": [
-        "컨설팅 경험 부족",
-        "경쟁 심화"
+        "컨설팅 전문성",
+        "경쟁 심화 우려"
       ],
-      "strategy": "Twin 기반 AX 컨설팅 강조",
-      "summary": "Twin 기술로 AX 전환 컨설팅에 강점, 수주 가능성 높음.",
-      "savedAt": 1778535455620,
+      "strategy": "Twin 솔루션 강조",
+      "summary": "VIRNECT 수주 가능성 高",
+      "savedAt": 1778535591139,
       "_bid": {
         "id": "G2B-R26BK01512365",
         "bidNo": "R26BK01512365",
