@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:40:20.222Z",
+  "updatedAt": "2026-05-11T21:40:31.720Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17738,6 +17738,50 @@
         "files": [],
         "contact": "박균제 042-860-2659",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01507935": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "로봇 분류 부합",
+        "첨단 기술력",
+        "데이터 시각화"
+      ],
+      "weaknesses": [
+        "핵심사업 불일치",
+        "드론 운영 경험無",
+        "농업 전문성 부족",
+        "서비스 제공 불가"
+      ],
+      "strategy": "입찰 참여 지양",
+      "summary": "핵심사업과 무관, 수주難",
+      "savedAt": 1778535631716,
+      "_bid": {
+        "id": "G2B-R26BK01507935",
+        "bidNo": "R26BK01507935",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 벼 병충해 드론항공방제 용역(입찰대행)",
+        "agency": "경상남도 통영시",
+        "demandAgency": "",
+        "budget": "90,938,182원",
+        "deadline": "2026-05-13 11:00:00",
+        "openDate": "2026-05-13 14:00:00",
+        "openPlace": "통영시 입찰집행관 PC",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "2026년 벼 병충해 드론항공방제 용역(입찰대행)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01507935&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "신영주 055-650-4424",
+        "qual": "2026-05-12 18:00",
         "source": "g2b"
       }
     }
