@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:37:35.622Z",
+  "updatedAt": "2026-05-11T21:37:47.779Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17051,6 +17051,91 @@
         "files": [],
         "contact": "라하나 042-869-0787",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01508941": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 전문성",
+        "제품군 다양",
+        "상장사 신뢰도"
+      ],
+      "weaknesses": [
+        "운영 경험 부족",
+        "B2B 중심 사업"
+      ],
+      "strategy": "교육 특화 제안",
+      "summary": "기술력 기반 수주 유력",
+      "savedAt": 1778535457278,
+      "_bid": {
+        "id": "G2B-R26BK01508941",
+        "bidNo": "R26BK01508941",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026 「미래를 만나는 VR·AR 팝업놀이터」 운영 용역",
+        "agency": "경상북도교육청",
+        "demandAgency": "",
+        "budget": "90,909,091원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-21 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "2026 「미래를 만나는 VR·AR 팝업놀이터」 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01508941&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박중부 054-805-3825",
+        "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01505225": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 활용",
+        "원격협업 지원",
+        "혁신기술 접목"
+      ],
+      "weaknesses": [
+        "핵심 전문성 부족",
+        "사업범위 불일치",
+        "기술적 난이도"
+      ],
+      "strategy": "전문기업과 협력, 디지털트윈 강조, 설계지원 역할 제안",
+      "summary": "핵심 전문성 불일치로 수주 가능성 낮음.",
+      "savedAt": 1778535467770,
+      "_bid": {
+        "id": "G2B-R26BK01505225",
+        "bidNo": "R26BK01505225",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "SMR(Small Modular Reactor) 추진 15k 컨테이너선의 개념적 AIP 도출 및 원자력 선박 설계 가이드라인을 고려한 KRISO 개념 설계안 검토 연구",
+        "agency": "한국해양과학기술원 부설 선박해양플랜트연구소",
+        "demandAgency": "",
+        "budget": "54,545,455원",
+        "deadline": "2026-05-18 10:00:00",
+        "openDate": "2026-05-18 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "SMR(Small Modular Reactor) 추진 15k 컨테이너선의 개념적 AIP 도출 및 원자력 선박 설계 가이드라인을 고려한 KRISO 개념 설계안 검토 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01505225&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최휘련 070-8028-7030",
+        "qual": "2026-05-17 18:00",
         "source": "g2b"
       }
     }
