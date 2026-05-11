@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:41:24.840Z",
+  "updatedAt": "2026-05-11T21:41:35.743Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17984,6 +17984,48 @@
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121846",
         "source": "bizinfo"
+      }
+    },
+    "G2B-R26BK01510399": {
+      "probability": 45,
+      "grade": "C",
+      "strengths": [
+        "XR/AR 전문기업",
+        "기술력 우수",
+        "정부사업 경험"
+      ],
+      "weaknesses": [
+        "VR 교육 콘텐츠",
+        "콘텐츠 제작 역량"
+      ],
+      "strategy": "VR 콘텐츠 역량강화 및 파트너십 구축",
+      "summary": "VR 교육 콘텐츠는 주력과 차이, 파트너십 필요.",
+      "savedAt": 1778535695741,
+      "_bid": {
+        "id": "G2B-R26BK01510399",
+        "bidNo": "R26BK01510399",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "사이버범죄예방 VR 교육 콘텐츠 제작",
+        "agency": "조달청 서울지방조달청",
+        "demandAgency": "",
+        "budget": "198,181,818원",
+        "deadline": "2026-05-28 10:00:00",
+        "openDate": "2026-05-28 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-05-08",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "사이버범죄예방 VR 교육 콘텐츠 제작",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01510399&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "조성은 02-590-8895",
+        "qual": "2026-05-27 18:00",
+        "source": "g2b"
       }
     }
   }
