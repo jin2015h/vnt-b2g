@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:46:13.710Z",
+  "updatedAt": "2026-05-11T21:46:23.465Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18971,6 +18971,49 @@
         "files": [],
         "contact": "차도빈 070-4056-8393",
         "qual": "2026-05-27 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01477586": {
+      "probability": 15,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력",
+        "시청 경험 혁신",
+        "원격 협업 솔루션"
+      ],
+      "weaknesses": [
+        "방송 제작 경험 無",
+        "핵심 사업 불일치",
+        "예산 제약 가능성"
+      ],
+      "strategy": "AR 중계 특화 제안",
+      "summary": "직접 수주 가능성↓",
+      "savedAt": 1778535983461,
+      "_bid": {
+        "id": "G2B-R26BK01477586",
+        "bidNo": "R26BK01477586",
+        "bidOrd": "001",
+        "stage": "입찰공고",
+        "title": "『2026 K-Billiards 디비전리그』 방송 중계 제작업체 선정 입찰 공고문",
+        "agency": "사단법인 대한당구연맹",
+        "demandAgency": "",
+        "budget": "120,000,000원",
+        "deadline": "-",
+        "openDate": "2026-05-14 15:00:00",
+        "openPlace": "올림픽공원 티켓링크라이브아레나 108호",
+        "postDate": "2026-05-08",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "『2026 K-Billiards 디비전리그』 방송 중계 제작업체 선정 입찰 공고문",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01477586&bidPbancOrd=001",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김보람",
+        "qual": "",
         "source": "g2b"
       }
     }
