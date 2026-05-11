@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:45:28.475Z",
+  "updatedAt": "2026-05-11T21:45:35.183Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18788,6 +18788,42 @@
         "contact": "김진욱 055-751-5533",
         "qual": "2026-05-21 18:00",
         "source": "g2b"
+      }
+    },
+    "BIZ-PBLN_000000000121848": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 전문기업",
+        "코스닥 상장사",
+        "해외 전시회 경험"
+      ],
+      "weaknesses": [
+        "직접 수주 아님",
+        "예산 미정"
+      ],
+      "strategy": "사업 취지 부합 강조",
+      "summary": "AR/XR 전문기업, 지원사업 적합.",
+      "savedAt": 1778535935179,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121848",
+        "stage": "지원사업",
+        "title": "[부산] 가상융합 기업 해외 전시회 참가 지원사업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-26",
+        "postDate": "2026-05-11",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[부산] 가상융합 기업 해외 전시회 참가 지원사업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121848",
+        "source": "bizinfo"
       }
     }
   }
