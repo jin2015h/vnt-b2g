@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:38:03.359Z",
+  "updatedAt": "2026-05-11T21:38:08.464Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17224,6 +17224,49 @@
         "files": [],
         "contact": "박주영 031-460-5449",
         "qual": "2026-05-12 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01506708": {
+      "probability": 10,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 기술",
+        "데이터 활용 전문",
+        "정부기관 경험"
+      ],
+      "weaknesses": [
+        "LiDAR 측량 미흡",
+        "전문 장비 부족",
+        "GIS 역량 부족"
+      ],
+      "strategy": "측량 전문 협력",
+      "summary": "핵심 역량 불일치, 협력 필요",
+      "savedAt": 1778535488454,
+      "_bid": {
+        "id": "G2B-R26BK01506708",
+        "bidNo": "R26BK01506708",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "항공 LiDAR 측량을 통한 감천, 미호강 수치표고모형 제작",
+        "agency": "한국건설기술연구원",
+        "demandAgency": "",
+        "budget": "43,343,265원",
+        "deadline": "2026-05-18 11:00:00",
+        "openDate": "2026-05-18 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "항공 LiDAR 측량을 통한 감천, 미호강 수치표고모형 제작",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01506708&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "정수경 031-910-0781",
+        "qual": "2026-05-15 18:00",
         "source": "g2b"
       }
     }
