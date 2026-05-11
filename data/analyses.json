@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:41:02.962Z",
+  "updatedAt": "2026-05-11T21:41:13.321Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17912,6 +17912,42 @@
         "contact": "정겨운 033-520-6131",
         "qual": "2026-05-19 18:00",
         "source": "g2b"
+      }
+    },
+    "BIZ-PBLN_000000000121851": {
+      "probability": 0,
+      "grade": "D",
+      "strengths": [
+        "AR/XR 기술력 우수",
+        "의료분야 확장성",
+        "다양한 제품군"
+      ],
+      "weaknesses": [
+        "스타트업 아님",
+        "사업목적 불일치"
+      ],
+      "strategy": "타 사업 집중 필요",
+      "summary": "상장사로 스타트업 패키지 지원 부적합. 수주 가능성 매우 낮음.",
+      "savedAt": 1778535673318,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121851",
+        "stage": "지원사업",
+        "title": "[대구] 의료 바이오 특화분야 창업패키지 창업기업 2차 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-15",
+        "postDate": "2026-05-07",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[대구] 의료 바이오 특화분야 창업패키지 창업기업 2차 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121851",
+        "source": "bizinfo"
       }
     }
   }
