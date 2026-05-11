@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:42:27.291Z",
+  "updatedAt": "2026-05-11T21:42:39.498Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18238,6 +18238,48 @@
         "files": [],
         "contact": "이슬비",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01505639": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 기술",
+        "시뮬레이션 역량",
+        "AI 데이터 생성"
+      ],
+      "weaknesses": [
+        "교량 도메인 지식",
+        "예산 규모 제한"
+      ],
+      "strategy": "Twin 활용, 도메인 협력",
+      "summary": "Twin 기술 적합. 도메인 보완 시 수주 가능.",
+      "savedAt": 1778535759495,
+      "_bid": {
+        "id": "G2B-R26BK01505639",
+        "bidNo": "R26BK01505639",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "교량 붕괴 시나리오를 고려한 시뮬레이션 및 AI 학습용 데이터셋 제공 용역(WBS 2-3)",
+        "agency": "한국건설기술연구원",
+        "demandAgency": "",
+        "budget": "38,181,818원",
+        "deadline": "2026-05-18 11:00:00",
+        "openDate": "2026-05-18 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "교량 붕괴 시나리오를 고려한 시뮬레이션 및 AI 학습용 데이터셋 제공 용역(WBS 2-3)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01505639&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "정수경 031-910-0781",
+        "qual": "2026-05-15 18:00",
         "source": "g2b"
       }
     }
