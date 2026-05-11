@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:42:39.498Z",
+  "updatedAt": "2026-05-11T21:42:47.538Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18280,6 +18280,50 @@
         "files": [],
         "contact": "정수경 031-910-0781",
         "qual": "2026-05-15 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01512244": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "제품 적합성 우수",
+        "AR/XR 기술 전문",
+        "원격 협업 강점",
+        "스마트고글 보유"
+      ],
+      "weaknesses": [
+        "경쟁사 존재 가능",
+        "가격 경쟁 압박",
+        "맞춤형 요구 대응"
+      ],
+      "strategy": "제품 강점 부각, 맞춤형 제안",
+      "summary": "제품 적합성 높아 수주 유력",
+      "savedAt": 1778535767535,
+      "_bid": {
+        "id": "G2B-R26BK01512244",
+        "bidNo": "R26BK01512244",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "스마트 안전장비 현장 맞춤형 지원사업(중부권) 운영 장비 계약",
+        "agency": "국토안전관리원",
+        "demandAgency": "",
+        "budget": "58,436,364원",
+        "deadline": "2026-05-19 12:00:00",
+        "openDate": "2026-05-19 13:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-08",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "스마트 안전장비 현장 맞춤형 지원사업(중부권) 운영 장비 계약",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01512244&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김형수 055-771-4634",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
