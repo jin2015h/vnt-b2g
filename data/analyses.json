@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:39:51.144Z",
+  "updatedAt": "2026-05-11T21:40:00.112Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17611,6 +17611,48 @@
         "files": [],
         "contact": "서민원 055-280-1237",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01509150": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "비전 기술력",
+        "AI/AR 연계",
+        "모빌리티 적용"
+      ],
+      "weaknesses": [
+        "경쟁 심화",
+        "대학 프로젝트"
+      ],
+      "strategy": "VisionX 기반 AI 비전 제안",
+      "summary": "AI 비전 검사기 구축 적합",
+      "savedAt": 1778535600109,
+      "_bid": {
+        "id": "G2B-R26BK01509150",
+        "bidNo": "R26BK01509150",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "[RISE사업 1-1 미래모빌리티] 비전 검사기(AOI) 시스템 구축",
+        "agency": "한라대학교",
+        "demandAgency": "",
+        "budget": "45,000,000원",
+        "deadline": "2026-05-15 14:00:00",
+        "openDate": "2026-05-15 15:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "AI",
+        "keywords": [],
+        "description": "[RISE사업 1-1 미래모빌리티] 비전 검사기(AOI) 시스템 구축",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01509150&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김한슬 7601169",
+        "qual": "2026-05-14 18:00",
         "source": "g2b"
       }
     }
