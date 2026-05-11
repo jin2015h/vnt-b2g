@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:38:56.553Z",
+  "updatedAt": "2026-05-11T21:39:06.837Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17484,6 +17484,49 @@
         "files": [],
         "contact": "하창일 032-727-5625",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01509326": {
+      "probability": 5,
+      "grade": "D",
+      "strengths": [
+        "첨단 AR/XR 기술",
+        "드론 활용 가능성",
+        "로봇 분야 연관"
+      ],
+      "weaknesses": [
+        "보험 사업 아님",
+        "핵심 사업 불일치",
+        "직접 연관성 부족"
+      ],
+      "strategy": "직접 수주 불가",
+      "summary": "AR/XR 기업, 보험 사업과 무관.",
+      "savedAt": 1778535546834,
+      "_bid": {
+        "id": "G2B-R26BK01509326",
+        "bidNo": "R26BK01509326",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 국립공원 드론 배상책임보험 가입",
+        "agency": "국립공원공단",
+        "demandAgency": "",
+        "budget": "170,000,000원",
+        "deadline": "2026-05-14 10:00:00",
+        "openDate": "2026-05-14 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "2026년 국립공원 드론 배상책임보험 가입",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01509326&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "박창섭 033-769-9399",
+        "qual": "2026-05-13 18:00",
         "source": "g2b"
       }
     }
