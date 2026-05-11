@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:44:52.546Z",
+  "updatedAt": "2026-05-11T21:45:06.567Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18704,6 +18704,46 @@
         "files": [],
         "contact": "최재명 061-450-5368",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01515292": {
+      "probability": 10,
+      "grade": "D",
+      "strengths": [
+        "원격협업 기술 보유"
+      ],
+      "weaknesses": [
+        "AI/프롬프톤 비전문",
+        "사업영역 불일치"
+      ],
+      "strategy": "AI 전문기업과 협력",
+      "summary": "핵심역량 불일치",
+      "savedAt": 1778535906561,
+      "_bid": {
+        "id": "G2B-R26BK01515292",
+        "bidNo": "R26BK01515292",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "(재공고)2026 AWS Healthcare AI Jumpstart: Prompthon with 강원LRS공유대학 프로그램 운영 용역",
+        "agency": "강원대학교 산학협력단",
+        "demandAgency": "",
+        "budget": "90,000,000원",
+        "deadline": "2026-05-22 10:00:00",
+        "openDate": "2026-05-22 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "(재공고)2026 AWS Healthcare AI Jumpstart: Prompthon with 강원LRS공유대학 프로그램 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01515292&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김달샘 033-250-7547",
+        "qual": "2026-05-21 18:00",
         "source": "g2b"
       }
     }
