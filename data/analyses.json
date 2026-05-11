@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:44:42.458Z",
+  "updatedAt": "2026-05-11T21:44:52.546Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18661,6 +18661,49 @@
         "files": [],
         "contact": "장범진 042-869-6232",
         "qual": "2026-05-21 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01506617": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 전문성",
+        "MRO 적용 가능",
+        "혁신 기술 보유",
+        "원격/디지털트윈"
+      ],
+      "weaknesses": [
+        "컨설팅 역량 필요",
+        "연구 용역 특성"
+      ],
+      "strategy": "MRO AR/XR 비전 제시, 기술 로드맵 제안, 타당성/효과 강조, 협력사 고려",
+      "summary": "AR/XR로 MRO 혁신 제안",
+      "savedAt": 1778535892542,
+      "_bid": {
+        "id": "G2B-R26BK01506617",
+        "bidNo": "R26BK01506617",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "MRO기술지원센터 기본구상 및 타당성 조사 용역",
+        "agency": "전라남도 무안군",
+        "demandAgency": "",
+        "budget": "89,545,455원",
+        "deadline": "-",
+        "openDate": "2026-05-18 17:00:00",
+        "openPlace": "무안군청 지역경제과 MRO팀(061-450-5802)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "MRO기술지원센터 기본구상 및 타당성 조사 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01506617&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최재명 061-450-5368",
+        "qual": "",
         "source": "g2b"
       }
     }
