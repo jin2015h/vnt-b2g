@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:36:49.271Z",
+  "updatedAt": "2026-05-11T21:36:58.616Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -16753,6 +16753,48 @@
         "files": [],
         "contact": "손지수 043-750-1412",
         "qual": "2026-05-17 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01503639": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "디지털트윈 강점",
+        "원격협업 MRO",
+        "스마트고글 활용"
+      ],
+      "weaknesses": [
+        "수질분야 전문성",
+        "마스터플랜 경험"
+      ],
+      "strategy": "수질전문기업 협력",
+      "summary": "MRO 및 DT 강점, 협력필요",
+      "savedAt": 1778535418614,
+      "_bid": {
+        "id": "G2B-R26BK01503639",
+        "bidNo": "R26BK01503639",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "수질자동측정망 마스터플랜 수립 및 MRO 체계 구축",
+        "agency": "조달청 인천지방조달청",
+        "demandAgency": "",
+        "budget": "136,363,636원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "수질자동측정망 마스터플랜 수립 및 MRO 체계 구축",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01503639&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "한범수 070-4056-7783",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
