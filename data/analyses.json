@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:46:49.713Z",
+  "updatedAt": "2026-05-11T21:46:59.256Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19141,6 +19141,48 @@
         "files": [],
         "contact": "최소이 064-710-6599",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01504730": {
+      "probability": 85,
+      "grade": "A",
+      "strengths": [
+        "Twin 제품 적합성",
+        "AR/XR 기술 시너지",
+        "연구원 맞춤 솔루션"
+      ],
+      "weaknesses": [
+        "경쟁 심화 가능성",
+        "예산 규모 보통"
+      ],
+      "strategy": "Twin 제품 강점 강조, AR/XR 연계 차별화, 연구원 맞춤 제안",
+      "summary": "제품-요구사항 일치, 수주 유력.",
+      "savedAt": 1778536019250,
+      "_bid": {
+        "id": "G2B-R26BK01504730",
+        "bidNo": "R26BK01504730",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "디지털 트윈 통합 플랫폼 고도화 및 가상 시뮬레이션 기술 개발",
+        "agency": "한국지질자원연구원",
+        "demandAgency": "",
+        "budget": "54,545,455원",
+        "deadline": "2026-06-17 10:00:00",
+        "openDate": "2026-06-17 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "디지털 트윈 통합 플랫폼 고도화 및 가상 시뮬레이션 기술 개발",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01504730&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "공병채 042-868-3755",
+        "qual": "2026-06-16 18:00",
         "source": "g2b"
       }
     }
