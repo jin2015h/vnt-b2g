@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:37:29.277Z",
+  "updatedAt": "2026-05-11T21:37:35.622Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17008,6 +17008,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "노주희",
+        "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01512365": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "Twin 솔루션 적합",
+        "산업/공공 경험",
+        "AX 전환 전문성"
+      ],
+      "weaknesses": [
+        "컨설팅 경험 부족",
+        "경쟁 심화"
+      ],
+      "strategy": "Twin 기반 AX 컨설팅 강조",
+      "summary": "Twin 기술로 AX 전환 컨설팅에 강점, 수주 가능성 높음.",
+      "savedAt": 1778535455620,
+      "_bid": {
+        "id": "G2B-R26BK01512365",
+        "bidNo": "R26BK01512365",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "산업 공공 분야 시뮬레이션 기반 AX 전환 컨설팅",
+        "agency": "한국과학기술정보연구원",
+        "demandAgency": "",
+        "budget": "100,000,000원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-08",
+        "contractType": "입찰",
+        "category": "시뮬레이션",
+        "keywords": [],
+        "description": "산업 공공 분야 시뮬레이션 기반 AX 전환 컨설팅",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01512365&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "라하나 042-869-0787",
         "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
