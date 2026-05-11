@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:45:16.508Z",
+  "updatedAt": "2026-05-11T21:45:28.475Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18744,6 +18744,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "김달샘 033-250-7547",
+        "qual": "2026-05-21 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01515617": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "제품 적합성 우수",
+        "고위험 환경 특화",
+        "국방 분야 적합"
+      ],
+      "weaknesses": [
+        "AI 연구 전문성",
+        "경쟁 심화 우려"
+      ],
+      "strategy": "AR/XR-AI 연계 강조",
+      "summary": "고위험 업무 최적화, 수주 가능성 높음",
+      "savedAt": 1778535928472,
+      "_bid": {
+        "id": "G2B-R26BK01515617",
+        "bidNo": "R26BK01515617",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "고위험 시험업무의 효율화 및 안전성 확보를 위한 피지컬 AI 적용방안 연구",
+        "agency": "국방기술품질원",
+        "demandAgency": "",
+        "budget": "45,309,091원",
+        "deadline": "2026-05-22 10:00:00",
+        "openDate": "2026-05-22 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "AI",
+        "keywords": [],
+        "description": "고위험 시험업무의 효율화 및 안전성 확보를 위한 피지컬 AI 적용방안 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01515617&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김진욱 055-751-5533",
         "qual": "2026-05-21 18:00",
         "source": "g2b"
       }
