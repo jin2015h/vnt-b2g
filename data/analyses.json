@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:46:41.359Z",
+  "updatedAt": "2026-05-11T21:46:49.713Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19098,6 +19098,48 @@
         "draftUrl": "",
         "files": [],
         "contact": "전종표 02-300-0036",
+        "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01511218": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "디지털트윈 적합",
+        "원격협업 솔루션",
+        "AR/XR 기술력"
+      ],
+      "weaknesses": [
+        "드론운영 경험 부족",
+        "경쟁사 존재 가능"
+      ],
+      "strategy": "디지털트윈 시너지, 운영 효율성 강조, 맞춤형 기술 제안",
+      "summary": "AR/XR, 디지털트윈 적합. 협상계약 수주 유력.",
+      "savedAt": 1778536009709,
+      "_bid": {
+        "id": "G2B-R26BK01511218",
+        "bidNo": "R26BK01511218",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026년 제주 드론특별자유화구역 조성사업(협상에 의한 계약)",
+        "agency": "제주특별자치도",
+        "demandAgency": "",
+        "budget": "409,090,909원",
+        "deadline": "-",
+        "openDate": "2026-05-19 17:00:00",
+        "openPlace": "참가자격 등 모든 공고내용은 첨부 공고문에 따름(시스템 입력 내용은 관계없음)",
+        "postDate": "2026-05-08",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "2026년 제주 드론특별자유화구역 조성사업(협상에 의한 계약)",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01511218&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최소이 064-710-6599",
         "qual": "",
         "source": "g2b"
       }
