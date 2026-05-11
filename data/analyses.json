@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:41:35.743Z",
+  "updatedAt": "2026-05-11T21:41:46.926Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18025,6 +18025,48 @@
         "files": [],
         "contact": "조성은 02-590-8895",
         "qual": "2026-05-27 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01513252": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "AR/XR 전문기업",
+        "기술력 우수",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "산업용 주력",
+        "콘텐츠 경험 부족"
+      ],
+      "strategy": "기술력 기반 콘텐츠 제안",
+      "summary": "AR/XR 기술력 기반 수주 기대",
+      "savedAt": 1778535706919,
+      "_bid": {
+        "id": "G2B-R26BK01513252",
+        "bidNo": "R26BK01513252",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "와이즈유(영산대학교) 양산시 랜드마크 드론 VR 비행체험 콘텐츠 제작 용역 입찰",
+        "agency": "영산대학교",
+        "demandAgency": "",
+        "budget": "172,727,273원",
+        "deadline": "-",
+        "openDate": "2026-05-28 11:00:00",
+        "openPlace": "영산대학교 양산캠퍼스 경남RISE사업팀 행정실",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "XR/AR",
+        "keywords": [],
+        "description": "와이즈유(영산대학교) 양산시 랜드마크 드론 VR 비행체험 콘텐츠 제작 용역 입찰",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01513252&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김동욱 055-380-9026",
+        "qual": "",
         "source": "g2b"
       }
     }
