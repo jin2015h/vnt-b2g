@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:41:56.820Z",
+  "updatedAt": "2026-05-11T21:42:06.547Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18109,6 +18109,48 @@
         "files": [],
         "contact": "권세운 041-589-8532",
         "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01501511": {
+      "probability": 20,
+      "grade": "D",
+      "strengths": [
+        "기술기업 이미지",
+        "AI 기술 연관성",
+        "혁신 지향"
+      ],
+      "weaknesses": [
+        "핵심 사업 불일치",
+        "프로그램 운영 경험 부족"
+      ],
+      "strategy": "AI 기술력 강조 및 AR/XR 접목 제안",
+      "summary": "핵심 사업과 괴리 커 수주 난망",
+      "savedAt": 1778535726543,
+      "_bid": {
+        "id": "G2B-R26BK01501511",
+        "bidNo": "R26BK01501511",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "Harness Engineering: AI Agent & Skill Hackathon 프로그램 운영 용역",
+        "agency": "강원대학교 산학협력단",
+        "demandAgency": "",
+        "budget": "80,000,000원",
+        "deadline": "2026-05-18 10:00:00",
+        "openDate": "2026-05-18 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "Harness Engineering: AI Agent & Skill Hackathon 프로그램 운영 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01501511&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "김달샘 033-250-7547",
+        "qual": "2026-05-17 18:00",
         "source": "g2b"
       }
     }
