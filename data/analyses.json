@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:38:46.090Z",
+  "updatedAt": "2026-05-11T21:38:56.553Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17438,6 +17438,51 @@
         "draftUrl": "",
         "files": [],
         "contact": "백현화 044-201-3182",
+        "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01507641": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "AR/XR 기술 적합성",
+        "드론 행사 시너지",
+        "원격 협업/관제",
+        "디지털 트윈 활용",
+        "높은 예산 규모"
+      ],
+      "weaknesses": [
+        "행사 운영 경험 부족",
+        "경쟁사 존재 가능성",
+        "AR/XR 도입 설득 필요"
+      ],
+      "strategy": "AR/XR 활용 구체화, 운영 파트너 협력, 기술 시연 및 효과 강조, 안전/효율성 증대 강조",
+      "summary": "AR/XR 기술로 혁신적 가치 제공, 수주 가능성 높음.",
+      "savedAt": 1778535536550,
+      "_bid": {
+        "id": "G2B-R26BK01507641",
+        "bidNo": "R26BK01507641",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "2026 코리아 드론 페스티벌 행사 위탁 용역",
+        "agency": "항공안전기술원",
+        "demandAgency": "",
+        "budget": "745,454,545원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-07",
+        "contractType": "입찰",
+        "category": "로봇",
+        "keywords": [],
+        "description": "2026 코리아 드론 페스티벌 행사 위탁 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01507641&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "하창일 032-727-5625",
         "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
