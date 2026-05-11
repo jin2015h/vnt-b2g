@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:45:46.983Z",
+  "updatedAt": "2026-05-11T21:45:58.064Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18859,6 +18859,43 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121847",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121845": {
+      "probability": 30,
+      "grade": "C",
+      "strengths": [
+        "혁신적 AR/XR 기술",
+        "팝업스토어 차별화",
+        "고객 경험 증대"
+      ],
+      "weaknesses": [
+        "주력 분야 불일치",
+        "높은 비용 가능성",
+        "B2C 경험 부족"
+      ],
+      "strategy": "AR 체험존 제안, 행사 혁신성 강조, B2C 활용 사례 개발",
+      "summary": "산업용 AR 기업. 팝업스토어 직접 참여는 부적합. AR 기술로 행사 혁신 제안 시 가능성.",
+      "savedAt": 1778535958055,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121845",
+        "stage": "지원사업",
+        "title": "[경북] 2026년 경북세일페스타 팝업스토어 참가기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-22",
+        "postDate": "2026-05-08",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[경북] 2026년 경북세일페스타 팝업스토어 참가기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121845",
         "source": "bizinfo"
       }
     }
