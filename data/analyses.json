@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:38:16.327Z",
+  "updatedAt": "2026-05-11T21:38:27.756Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17311,6 +17311,49 @@
         "draftUrl": "",
         "files": [],
         "contact": "김정호 042-868-8128",
+        "qual": "2026-05-18 18:00",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01506993": {
+      "probability": 20,
+      "grade": "D",
+      "strengths": [
+        "디지털트윈 기술",
+        "혁신기술 관심",
+        "시각화/협업 강점"
+      ],
+      "weaknesses": [
+        "핵심분석 역량 부족",
+        "전문분야 불일치",
+        "분석SW 부재"
+      ],
+      "strategy": "전문기관 협력 필수",
+      "summary": "기술적합성 낮음",
+      "savedAt": 1778535507746,
+      "_bid": {
+        "id": "G2B-R26BK01506993",
+        "bidNo": "R26BK01506993",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "SMR 선박 전기추진시스템 안정도 해석 용역",
+        "agency": "한국해양과학기술원 부설 선박해양플랜트연구소",
+        "demandAgency": "",
+        "budget": "90,000,000원",
+        "deadline": "2026-05-19 10:00:00",
+        "openDate": "2026-05-19 11:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-06",
+        "contractType": "입찰",
+        "category": "기타",
+        "keywords": [],
+        "description": "SMR 선박 전기추진시스템 안정도 해석 용역",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01506993&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "최휘련 070-8028-7030",
         "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
