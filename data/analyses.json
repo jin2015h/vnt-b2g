@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:48:13.942Z",
+  "updatedAt": "2026-05-11T21:48:25.572Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19383,6 +19383,44 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121849",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121842": {
+      "probability": 75,
+      "grade": "B",
+      "strengths": [
+        "혁신 AR/XR 기술",
+        "상용화 제품 보유",
+        "다양한 솔루션",
+        "코스닥 상장사"
+      ],
+      "weaknesses": [
+        "사업 범위 광범위",
+        "예산 정보 부재",
+        "경쟁사 존재 가능"
+      ],
+      "strategy": "지역특화 솔루션 제안",
+      "summary": "AR/XR 기술, 사업화 적합, 수주 유망",
+      "savedAt": 1778536105567,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121842",
+        "stage": "지원사업",
+        "title": "[충남] 2026년 지역혁신클러스터육성(비R&D)사업 사업화 지원 수혜기업 모집 공고",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "2026-05-28",
+        "postDate": "2026-05-07",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "[충남] 2026년 지역혁신클러스터육성(비R&D)사업 사업화 지원 수혜기업 모집 공고",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121842",
         "source": "bizinfo"
       }
     }
