@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:42:16.672Z",
+  "updatedAt": "2026-05-11T21:42:27.291Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -18195,6 +18195,49 @@
         "files": [],
         "contact": "방은설 02-2669-8712",
         "qual": "",
+        "source": "g2b"
+      }
+    },
+    "G2B-R26BK01515493": {
+      "probability": 80,
+      "grade": "A",
+      "strengths": [
+        "디지털트윈 전문성",
+        "AR/XR 기술 보유",
+        "CAD 연동 역량"
+      ],
+      "weaknesses": [
+        "예산 규모 작음",
+        "철도 분야 경험 부족",
+        "연구과제 경험 부족"
+      ],
+      "strategy": "Twin 솔루션 강조, CAD 연동 기술 부각, AR/XR 시각화 제안, 철도 특화 방안 제시",
+      "summary": "디지털트윈 적합, 수주↑",
+      "savedAt": 1778535747285,
+      "_bid": {
+        "id": "G2B-R26BK01515493",
+        "bidNo": "R26BK01515493",
+        "bidOrd": "000",
+        "stage": "입찰공고",
+        "title": "CAD 기반 외관조사망도 손상정보 자동 추출 및 디지털 트윈 연계 데이터 구조 구축 연구",
+        "agency": "한국철도기술연구원",
+        "demandAgency": "",
+        "budget": "39,090,909원",
+        "deadline": "2026-05-19 11:00:00",
+        "openDate": "2026-05-19 12:00:00",
+        "openPlace": "국가종합전자조달시스템(나라장터)",
+        "postDate": "2026-05-11",
+        "contractType": "입찰",
+        "category": "디지털트윈",
+        "keywords": [],
+        "description": "CAD 기반 외관조사망도 손상정보 자동 추출 및 디지털 트윈 연계 데이터 구조 구축 연구",
+        "requirements": [],
+        "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01515493&bidPbancOrd=000",
+        "specUrl": "",
+        "draftUrl": "",
+        "files": [],
+        "contact": "이슬비",
+        "qual": "2026-05-18 18:00",
         "source": "g2b"
       }
     }
