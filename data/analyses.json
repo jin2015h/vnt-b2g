@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:47:55.956Z",
+  "updatedAt": "2026-05-11T21:48:13.942Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -19345,6 +19345,44 @@
         "draftUrl": "",
         "contact": "",
         "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121850",
+        "source": "bizinfo"
+      }
+    },
+    "BIZ-PBLN_000000000121849": {
+      "probability": 65,
+      "grade": "B",
+      "strengths": [
+        "디지털 트윈 적합",
+        "원격 협업 효율",
+        "첨단 기술력",
+        "기업지원 전문"
+      ],
+      "weaknesses": [
+        "자동차 경험 부족",
+        "예산 불확실성",
+        "경쟁 시장 우려"
+      ],
+      "strategy": "Twin으로 충돌분석, Remote 협업 강조, AR 시각화 제안, 기업지원 효율성 부각.",
+      "summary": "VIRNECT 기술은 EV 충돌안전 및 기업지원에 적합, 혁신 솔루션 제공 가능성 높음.",
+      "savedAt": 1778536093937,
+      "_bid": {
+        "id": "BIZ-PBLN_000000000121849",
+        "stage": "지원사업",
+        "title": "전기차 차체ㆍ섀시 충돌안전 기업지원 연장 공고(xEV 보호차체 충돌안전 기업지원사업)",
+        "agency": "",
+        "demandAgency": "",
+        "budget": "미정",
+        "deadline": "-",
+        "postDate": "2026-05-11",
+        "contractType": "공모/지원",
+        "category": "기타",
+        "keywords": [],
+        "description": "전기차 차체ㆍ섀시 충돌안전 기업지원 연장 공고(xEV 보호차체 충돌안전 기업지원사업)",
+        "requirements": [],
+        "specUrl": "",
+        "draftUrl": "",
+        "contact": "",
+        "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000121849",
         "source": "bizinfo"
       }
     }
