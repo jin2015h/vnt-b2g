@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T21:45:06.567Z",
+  "updatedAt": "2026-05-11T21:45:16.508Z",
   "analyses": {
     "BIZ-PBLN_000000000120201": {
       "probability": 35,
@@ -17358,20 +17358,21 @@
       }
     },
     "G2B-R26BK01506500": {
-      "probability": 85,
+      "probability": 80,
       "grade": "A",
       "strengths": [
-        "디지털트윈 제품",
-        "AR/XR 기술력",
-        "스마트고글 연동"
+        "디지털트윈 제품 보유",
+        "AR/XR 기술력 우수",
+        "공공기관 사업 적합",
+        "예산 규모 적정"
       ],
       "weaknesses": [
-        "경쟁사 존재",
-        "BIM 연동 경험"
+        "경쟁사 존재 가능성",
+        "BIM 연동 전문성"
       ],
-      "strategy": "디지털트윈 전문성",
-      "summary": "VIRNECT 제품 적합, 수주 높음",
-      "savedAt": 1778535509086,
+      "strategy": "제품군 연계 솔루션",
+      "summary": "디지털트윈 최적 솔루션",
+      "savedAt": 1778535916504,
       "_bid": {
         "id": "G2B-R26BK01506500",
         "bidNo": "R26BK01506500",
