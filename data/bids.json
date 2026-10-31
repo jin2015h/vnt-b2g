@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31 09:19",
+  "updatedAt": "2026-11-01 08:55",
   "status": "done",
   "stage": "✅ 완료 — 15건",
   "total": 15,
@@ -22,6 +22,26 @@
       "draftUrl": "",
       "contact": "",
       "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127590",
+      "source": "bizinfo"
+    },
+    {
+      "id": "BIZ-PBLN_000000000127597",
+      "stage": "지원사업",
+      "title": "[전북] 남원시 2026년 3차 수출물류비 지원사업 시행계획 추가 공고",
+      "agency": "",
+      "demandAgency": "",
+      "budget": "미정",
+      "deadline": "2026-11-05",
+      "postDate": "2026-10-28",
+      "contractType": "공모/지원",
+      "category": "기타",
+      "keywords": [],
+      "description": "[전북] 남원시 2026년 3차 수출물류비 지원사업 시행계획 추가 공고",
+      "requirements": [],
+      "specUrl": "",
+      "draftUrl": "",
+      "contact": "",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127597",
       "source": "bizinfo"
     },
     {
@@ -82,26 +102,6 @@
       "draftUrl": "",
       "contact": "",
       "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127585",
-      "source": "bizinfo"
-    },
-    {
-      "id": "BIZ-PBLN_000000000127597",
-      "stage": "지원사업",
-      "title": "[전북] 남원시 2026년 3차 수출물류비 지원사업 시행계획 추가 공고",
-      "agency": "",
-      "demandAgency": "",
-      "budget": "미정",
-      "deadline": "2026-11-05",
-      "postDate": "2026-10-28",
-      "contractType": "공모/지원",
-      "category": "기타",
-      "keywords": [],
-      "description": "[전북] 남원시 2026년 3차 수출물류비 지원사업 시행계획 추가 공고",
-      "requirements": [],
-      "specUrl": "",
-      "draftUrl": "",
-      "contact": "",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127597",
       "source": "bizinfo"
     },
     {
