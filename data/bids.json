@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22 09:54",
+  "updatedAt": "2026-11-23 10:22",
   "status": "done",
   "stage": "✅ 완료 — 15건",
   "total": 15,
@@ -22,6 +22,26 @@
       "draftUrl": "",
       "contact": "",
       "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128062",
+      "source": "bizinfo"
+    },
+    {
+      "id": "BIZ-PBLN_000000000128054",
+      "stage": "지원사업",
+      "title": "[경기] 한국무역보험공사(KSURE) 연계 수출보험 단체가입 지원 모집 공고",
+      "agency": "",
+      "demandAgency": "",
+      "budget": "미정",
+      "deadline": "2026-11-27",
+      "postDate": "2026-11-19",
+      "contractType": "공모/지원",
+      "category": "기타",
+      "keywords": [],
+      "description": "[경기] 한국무역보험공사(KSURE) 연계 수출보험 단체가입 지원 모집 공고",
+      "requirements": [],
+      "specUrl": "",
+      "draftUrl": "",
+      "contact": "",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128054",
       "source": "bizinfo"
     },
     {
@@ -82,26 +102,6 @@
       "draftUrl": "",
       "contact": "",
       "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128046",
-      "source": "bizinfo"
-    },
-    {
-      "id": "BIZ-PBLN_000000000128054",
-      "stage": "지원사업",
-      "title": "[경기] 한국무역보험공사(KSURE) 연계 수출보험 단체가입 지원 모집 공고",
-      "agency": "",
-      "demandAgency": "",
-      "budget": "미정",
-      "deadline": "2026-11-27",
-      "postDate": "2026-11-19",
-      "contractType": "공모/지원",
-      "category": "기타",
-      "keywords": [],
-      "description": "[경기] 한국무역보험공사(KSURE) 연계 수출보험 단체가입 지원 모집 공고",
-      "requirements": [],
-      "specUrl": "",
-      "draftUrl": "",
-      "contact": "",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128054",
       "source": "bizinfo"
     },
     {
